@@ -1,0 +1,367 @@
+﻿Transaction_ID;Transaction_Date;End of Month;Mobile_Model;Brand;Storage_Size;Color;Operating_System;Price;Units_Sold;Total_Revenue;Sales_Channel;Payment_Type;Customer_Age;Customer_Age_Group;Customer_Gender;Country;City;Latitude;Longitude
+3a59ca6b-4f80-443f-9925-c6471b119fc5;01.01.2024;31.01.2024;Pixel 8a;Google;128GB;Blue;Android;534,00;20;10680;Online;UPI;40;34-41;Male;Pakistan;Lahore;31,5497;74,3436
+45cf6d15-4c86-4367-ada7-cdb67dc97ae2;02.01.2024;31.01.2024;Pixel 8a;Google;256GB;White;Android;531,00;65;34515;Partner;Cash;55;50-57;Other;Pakistan;Multan;30,1575;71,5249
+4053c488-2914-4b4b-add0-8b8ae200f475;03.01.2024;31.01.2024;OnePlus 11R;OnePlus;256GB;Green;Android;608,00;58;35264;Online;EMI;40;34-41;Female;Bangladesh;Chittagong;22,3569;91,7832
+fdd350a0-77de-454d-af2d-d1533913542a;04.01.2024;31.01.2024;Redmi Note 13;Xiaomi;256GB;Green;Android;342,00;25;8550;Online;Credit Card;32;26-33;Female;Turkey;Bursa;40,1828;29,0665
+5162e904-aa16-4967-9471-d242b21d3246;05.01.2024;31.01.2024;Z Fold 6;Samsung;128GB;Black;Android;1841,00;57;104937;Online;UPI;47;42-49;Female;Bangladesh;Rajshahi;24,3745;88,6042
+e5fe1da0-0668-427f-bd36-e85f30bda556;06.01.2024;31.01.2024;Z Fold 6;Samsung;128GB;Black;Android;1879,00;35;65765;Online;EMI;27;26-33;Female;Turkey;Antalya;36,8969;30,7133
+da4642e3-1c75-4406-b832-430f7cec5ff5;07.01.2024;31.01.2024;Xiaomi 14 Ultra;Xiaomi;256GB;Blue;Android;891,00;69;61479;Retail Store;Credit Card;64;58-65;Other;Bangladesh;Rajshahi;24,3745;88,6042
+79397f68-61ed-4ea8-bcb2-f918d4e6c05b;08.01.2024;31.01.2024;OnePlus 11R;OnePlus;256GB;Blue;Android;641,00;85;54485;Online;Cash;32;26-33;Female;India;Pune;18,5204;73,8567
+2caec01b-6e79-421c-b260-cc638113098a;09.01.2024;31.01.2024;Pixel 8a;Google;64GB;Red;Android;540,00;93;50220;Online;Cash;33;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+3949fd33-ae2e-4099-b7bb-ec0a8d0f5cc6;10.01.2024;31.01.2024;Poco X6 Pro;Xiaomi;64GB;White;Android;358,00;61;21838;Online;Credit Card;48;42-49;Female;Bangladesh;Dhaka;23,8103;90,4125
+fe80a264-a2ac-45ae-80ea-c67c6ba9a045;11.01.2024;31.01.2024;Pixel 9;Google;128GB;Red;Android;704,00;82;57728;Online;EMI;48;42-49;Other;Turkey;Antalya;36,8969;30,7133
+d000d275-0110-4e7c-8087-93cd96e0f30b;12.01.2024;31.01.2024;OnePlus Nord 4;OnePlus;128GB;Black;Android;556,00;67;37252;Online;EMI;27;26-33;Male;Bangladesh;Rajshahi;24,3745;88,6042
+0d2da590-d5ac-4a38-8f0a-9c668bc549a7;13.01.2024;31.01.2024;Mi 13T Pro;Xiaomi;64GB;Blue;Android;534,00;77;41118;Online;Cash;60;58-65;Female;India;Delhi;28,7041;77,1025
+26760d0b-ece5-48d9-906f-6511c119a434;14.01.2024;31.01.2024;Pixel 9 Pro;Google;256GB;White;Android;1053,00;89;93717;Online;Cash;39;34-41;Female;Turkey;Bursa;40,1828;29,0665
+2e531f19-941b-4e8c-83db-16ba3e5eca52;15.01.2024;31.01.2024;OnePlus 11R;OnePlus;128GB;Green;Android;676,00;33;22308;Retail Store;Cash;20;18-25;Female;India;Hyderabad;17,385;78,4867
+963677f8-ebd9-4a9c-a90e-a17d3c479fde;16.01.2024;31.01.2024;OnePlus Nord 4;OnePlus;128GB;White;Android;540,00;44;23760;Partner;Credit Card;23;18-25;Male;Bangladesh;Rajshahi;24,3745;88,6042
+23dd9a36-c55f-43a3-bf42-481f3e0ee6a3;17.01.2024;31.01.2024;OnePlus 11R;OnePlus;64GB;White;Android;662,00;71;47002;Online;Credit Card;23;18-25;Male;India;Jaipur;26,9124;75,7873
+56dbc213-6328-4647-ba24-251ee088c5d0;18.01.2024;31.01.2024;Mi 13T Pro;Xiaomi;64GB;White;Android;502,00;68;34136;Partner;EMI;63;58-65;Female;Turkey;Bursa;40,1828;29,0665
+ed544e0a-5f6d-4e30-aa78-0182fa0d2d59;19.01.2024;31.01.2024;Poco X6 Pro;Xiaomi;256GB;Red;Android;350,00;8;2800;Online;UPI;44;42-49;Other;Turkey;Izmir;38,4192;27,1287
+b563bdbe-055d-41a8-8cea-06be0db9c82c;20.01.2024;31.01.2024;OnePlus 12 Pro;OnePlus;128GB;Red;Android;852,00;75;63900;Online;Cash;29;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+1729d815-4872-4db8-8a06-527cab9b72db;21.01.2024;31.01.2024;OnePlus Nord 4;OnePlus;64GB;Blue;Android;579,00;90;52110;Online;Credit Card;47;42-49;Female;India;Kolkata;22,5726;88,3639
+b9c9fb79-ae15-4b97-a439-12327ad25869;22.01.2024;31.01.2024;OnePlus 11R;OnePlus;128GB;Red;Android;697,00;87;60639;Retail Store;EMI;63;58-65;Male;Turkey;Ankara;39,9334;32,8597
+b41b7729-d5b4-447d-a723-5f1113e834f8;23.01.2024;31.01.2024;iPhone 14 Pro;Apple;256GB;Blue;iOS;1002,00;64;64128;Partner;Credit Card;57;50-57;Other;Bangladesh;Dhaka;23,8103;90,4125
+75b69bdf-bcfa-45ec-bb34-0edfaa0f1b60;24.01.2024;31.01.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Black;Android;824,00;88;72512;Online;Cash;42;42-49;Female;Turkey;Ankara;39,9334;32,8597
+37771a5c-d5e6-45a2-962a-1ffed462104b;25.01.2024;31.01.2024;OnePlus Nord 4;OnePlus;64GB;Green;Android;567,00;92;52164;Online;Cash;31;26-33;Male;Turkey;Bursa;40,1828;29,0665
+54397aec-2cd9-435d-b4a1-4d8bcdb84e63;26.01.2024;31.01.2024;OnePlus 11R;OnePlus;256GB;White;Android;672,00;93;62496;Online;Credit Card;42;42-49;Male;Turkey;Ankara;39,9334;32,8597
+5e89e980-d3c1-47ef-9fd4-c2117f5d3baa;27.01.2024;31.01.2024;iPhone 14 Pro;Apple;256GB;Blue;iOS;1059,00;54;57186;Retail Store;EMI;24;18-25;Female;Turkey;Bursa;40,1828;29,0665
+a5efebcf-37a6-4ffc-81bc-46cf09be659c;28.01.2024;31.01.2024;Mi 13T Pro;Xiaomi;256GB;Blue;Android;533,00;13;6929;Retail Store;Cash;22;18-25;Female;India;Delhi;28,7041;77,1025
+5de8606b-2499-44f9-b3fa-eaf96fcf7a92;29.01.2024;31.01.2024;Pixel 9;Google;128GB;Blue;Android;737,00;54;39798;Online;UPI;26;26-33;Female;Bangladesh;Khulna;22,8456;89,5403
+5715966f-620a-44f4-b08d-9c444264c4c1;30.01.2024;31.01.2024;OnePlus 11R;OnePlus;256GB;Black;Android;699,00;39;27261;Online;Cash;29;26-33;Female;Turkey;Antalya;36,8969;30,7133
+c07fff34-92b2-42e0-982b-6dd160b071e1;31.01.2024;31.01.2024;Pixel 8a;Google;64GB;Red;Android;533,00;90;47970;Partner;EMI;51;50-57;Female;Turkey;Izmir;38,4192;27,1287
+e79fd7c4-7c9f-4995-9c91-5c2e8b75a1f9;01.02.2024;29.02.2024;Z Fold 6;Samsung;256GB;Red;Android;1834,00;28;51352;Partner;Credit Card;32;26-33;Other;Turkey;Istanbul;41,0082;28,9784
+ed375851-0745-4782-b208-7e4a575211a2;02.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;128GB;Red;Android;1293,00;2;2586;Retail Store;Cash;36;34-41;Female;India;Pune;18,5204;73,8567
+86b4c985-83c7-4c66-80d6-1922b43ba99a;03.02.2024;29.02.2024;iPhone 14 Pro;Apple;64GB;Green;iOS;1021,00;94;95974;Retail Store;Cash;55;50-57;Female;Bangladesh;Sylhet;24,8949;91,8687
+bcbeb5c0-da1b-4aa1-9178-695252ff6b03;04.02.2024;29.02.2024;Galaxy M15;Samsung;128GB;Green;Android;362,00;52;18824;Retail Store;Cash;30;26-33;Male;India;Bangalore;12,9716;77,5946
+b0bf3c70-7bb3-4514-92f7-e752db4def1b;05.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;128GB;Green;Android;1269,00;78;98982;Partner;UPI;47;42-49;Female;India;Pune;18,5204;73,8567
+1b246f4b-b8b3-4cec-b801-bde2d1987509;06.02.2024;29.02.2024;OnePlus 12 Pro;OnePlus;128GB;Blue;Android;854,00;37;31598;Online;Credit Card;44;42-49;Male;Turkey;Izmir;38,4192;27,1287
+9f823c66-7d39-4597-a23c-89bf64dd48d8;07.02.2024;29.02.2024;Galaxy M15;Samsung;64GB;Blue;Android;367,00;51;18717;Online;EMI;18;18-25;Male;India;Pune;18,5204;73,8567
+11e783a0-e4d8-4399-9ce6-0049fdab62c6;08.02.2024;29.02.2024;iPhone 15;Apple;128GB;White;iOS;823,00;86;70778;Retail Store;Cash;28;26-33;Other;India;Lucknow;26,8467;80,9462
+5715966f-620a-44f4-b08d-9c444264c4c1;09.02.2024;29.02.2024;OnePlus 11R;OnePlus;256GB;Black;Android;699,00;39;27261;Online;Cash;29;26-33;Female;Turkey;Antalya;36,8969;30,7133
+d830c382-2f68-4f61-aa3a-8e32120a4d2e;10.02.2024;29.02.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1134,00;54;61236;Online;EMI;27;26-33;Male;Turkey;Bursa;40,1828;29,0665
+5c5b6e7d-4a0c-42b5-b36c-eb914ae09e95;11.02.2024;29.02.2024;iPhone 14;Apple;256GB;Black;iOS;885,00;29;25665;Retail Store;UPI;53;50-57;Male;India;Chennai;13,0827;80,2707
+15e2798f-e227-4f4e-b061-b147a35b3f94;12.02.2024;29.02.2024;Poco X6 Pro;Xiaomi;64GB;Black;Android;358,00;5;1790;Retail Store;UPI;46;42-49;Male;Turkey;Izmir;38,4192;27,1287
+addad3bd-167b-419c-9cfe-9af6ca953e33;13.02.2024;29.02.2024;Z Fold 6;Samsung;128GB;Green;Android;1845,00;81;149445;Online;EMI;27;26-33;Female;Turkey;Bursa;40,1828;29,0665
+be62bbce-ff3d-4faf-a943-1c5163ea0d7f;14.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;64GB;White;Android;1277,00;6;7662;Partner;EMI;40;34-41;Female;Turkey;Bursa;40,1828;29,0665
+054b42a7-02d8-42c5-bd34-8faaa0ab2b38;15.02.2024;29.02.2024;OnePlus 12 Pro;OnePlus;256GB;Green;Android;821,00;69;56649;Retail Store;UPI;36;34-41;Female;Turkey;Istanbul;41,0082;28,9784
+45d2ad88-0e27-477f-9a74-3990ebd65838;16.02.2024;29.02.2024;Galaxy M15;Samsung;256GB;Red;Android;321,00;55;17655;Online;Credit Card;33;26-33;Female;India;Jaipur;26,9124;75,7873
+5e537142-c36f-4264-aa25-93c69f79c26d;17.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;256GB;White;Android;1208,00;75;90600;Retail Store;EMI;44;42-49;Female;India;Kolkata;22,5726;88,3639
+7b5b9b49-eb1e-4e24-b2d3-658e50001acb;18.02.2024;29.02.2024;Pixel 9;Google;256GB;Green;Android;757,00;1;757;Retail Store;Credit Card;22;18-25;Female;Turkey;Bursa;40,1828;29,0665
+c8220362-d66a-4c81-b972-9619934627c3;19.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;256GB;Green;Android;1207,00;51;61557;Retail Store;UPI;55;50-57;Male;Turkey;Antalya;36,8969;30,7133
+05dc416c-5c87-4726-88bb-c3f02350f9d4;20.02.2024;29.02.2024;Pixel 9 Pro;Google;64GB;Black;Android;1061,00;88;93368;Online;EMI;63;58-65;Female;India;Jaipur;26,9124;75,7873
+8a020b59-0bf5-4548-8b12-0380b5d1a25f;21.02.2024;29.02.2024;iPhone 14;Apple;64GB;White;iOS;856,00;33;28248;Partner;UPI;31;26-33;Female;Turkey;Izmir;38,4192;27,1287
+a6189201-53f2-4ff9-840c-f8eaaa812c96;22.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;128GB;Black;Android;1248,00;4;4992;Retail Store;EMI;35;34-41;Male;India;Hyderabad;17,385;78,4867
+1687bec4-ccc8-4abe-81d1-d3c34ceb1b5f;23.02.2024;29.02.2024;Z Fold 6;Samsung;256GB;Red;Android;1858,00;17;31586;Online;EMI;27;26-33;Female;Bangladesh;Khulna;22,8456;89,5403
+2d8c5839-74ea-42ab-9ba7-3f96d96efd87;24.02.2024;29.02.2024;Galaxy A55;Samsung;256GB;Blue;Android;422,00;29;12238;Online;UPI;48;42-49;Male;India;Pune;18,5204;73,8567
+d40764e9-e423-40da-bee9-6d0f484d2575;25.02.2024;29.02.2024;Galaxy S25 Ultra;Samsung;64GB;Red;Android;1204,00;88;105952;Online;UPI;25;18-25;Female;Pakistan;Rawalpindi;33,5651;73,0169
+7ebd3c9c-21a9-48d4-802b-50b2ae3d74e6;26.02.2024;29.02.2024;OnePlus 12 Pro;OnePlus;256GB;Green;Android;895,00;83;74285;Online;Credit Card;40;34-41;Male;India;Chennai;13,0827;80,2707
+b5769cb1-6eb2-4fd0-94ba-3b64b6991c7e;27.02.2024;29.02.2024;Pixel 9 Pro;Google;256GB;Black;Android;1040,00;69;71760;Retail Store;EMI;54;50-57;Other;India;Bangalore;12,9716;77,5946
+4160d472-4d0f-4a59-86b8-86e297bc6dec;28.02.2024;29.02.2024;iPhone 15 Pro;Apple;256GB;Red;iOS;1131,00;26;29406;Retail Store;EMI;41;34-41;Female;Turkey;Antalya;36,8969;30,7133
+78956e9d-222f-40a4-9ea2-499b738e6a00;29.02.2024;29.02.2024;Poco X6 Pro;Xiaomi;64GB;Black;Android;397,00;81;32157;Retail Store;EMI;23;18-25;Male;Bangladesh;Sylhet;24,8949;91,8687
+c390e049-3c4f-4b58-ad23-f52c64d7768f;01.03.2024;31.03.2024;Pixel 9;Google;64GB;Blue;Android;770,00;91;70070;Retail Store;Cash;64;58-65;Male;India;Kolkata;22,5726;88,3639
+71e5519b-ebcd-4ae6-8c37-165aa0b2e39e;02.03.2024;31.03.2024;Z Fold 6;Samsung;128GB;White;Android;1856,00;62;115072;Online;UPI;36;34-41;Female;Turkey;Bursa;40,1828;29,0665
+ee1a4d2e-f425-4fae-8400-b4c76d7d0175;03.03.2024;31.03.2024;iPhone 15 Pro;Apple;256GB;Green;iOS;1142,00;4;4568;Partner;Cash;27;26-33;Male;India;Jaipur;26,9124;75,7873
+b563bdbe-055d-41a8-8cea-06be0db9c82c;04.03.2024;31.03.2024;OnePlus 12 Pro;OnePlus;128GB;Red;Android;852,00;75;63900;Online;Cash;29;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+5633dd9e-0ad3-455e-8b00-7236c2379e1b;05.03.2024;31.03.2024;Pixel 9 Pro;Google;128GB;Black;Android;1059,00;68;72012;Online;Credit Card;47;42-49;Male;India;Bangalore;12,9716;77,5946
+8201d6e3-4f18-4911-9b28-c50627fd1640;06.03.2024;31.03.2024;OnePlus 11R;OnePlus;128GB;Blue;Android;689,00;89;61321;Online;EMI;51;50-57;Male;India;Bangalore;12,9716;77,5946
+a01cf58f-776a-44aa-9bf0-acb2e791bf54;07.03.2024;31.03.2024;iPhone SE;Apple;128GB;Green;iOS;456,00;9;4104;Online;EMI;21;18-25;Female;Turkey;Ankara;39,9334;32,8597
+de89421a-9aaa-4405-ac88-1a9cf27e759e;08.03.2024;31.03.2024;Pixel 9 Pro;Google;128GB;Green;Android;1062,00;68;72216;Partner;Credit Card;62;58-65;Female;Turkey;Bursa;40,1828;29,0665
+d09c0b41-1402-4356-9862-1037a36dff3c;09.03.2024;31.03.2024;iPhone 15 Pro;Apple;64GB;Green;iOS;1106,00;71;78526;Online;Cash;33;26-33;Male;India;Chennai;13,0827;80,2707
+9c051b08-07fc-4255-9718-ccd7086ebcdf;10.03.2024;31.03.2024;Galaxy M15;Samsung;64GB;Blue;Android;315,00;17;5355;Online;EMI;44;42-49;Male;Turkey;Izmir;38,4192;27,1287
+fdd350a0-77de-454d-af2d-d1533913542a;11.03.2024;31.03.2024;Redmi Note 13;Xiaomi;256GB;Green;Android;342,00;25;8550;Online;Credit Card;32;26-33;Female;Turkey;Bursa;40,1828;29,0665
+32632594-2755-431f-a699-fa2be10a3e10;12.03.2024;31.03.2024;Z Fold 6;Samsung;64GB;Red;Android;1799,00;13;23387;Online;EMI;43;42-49;Female;India;Lucknow;26,8467;80,9462
+fa428d4b-c6e6-4892-a985-73db52035660;13.03.2024;31.03.2024;iPhone SE;Apple;256GB;Red;iOS;438,00;85;37230;Online;EMI;44;42-49;Female;Turkey;Istanbul;41,0082;28,9784
+ab65afba-2bee-46a3-8b23-fda5f5d18601;14.03.2024;31.03.2024;Poco X6 Pro;Xiaomi;256GB;Blue;Android;351,00;19;6669;Partner;Cash;41;34-41;Female;India;Jaipur;26,9124;75,7873
+01ba7cfd-dc66-4825-9d40-3575f752c1cc;15.03.2024;31.03.2024;Galaxy S25 Ultra;Samsung;256GB;White;Android;1206,00;60;72360;Online;UPI;59;58-65;Female;India;Chennai;13,0827;80,2707
+279ece16-2767-4f56-badd-d5a9b2b86bd6;16.03.2024;31.03.2024;Mi 13T Pro;Xiaomi;256GB;Green;Android;544,00;30;16320;Partner;Credit Card;38;34-41;Female;Turkey;Bursa;40,1828;29,0665
+fb5ffb84-dd00-41a7-943d-a224c201e241;17.03.2024;31.03.2024;Pixel 9;Google;256GB;Red;Android;760,00;97;73720;Partner;Cash;64;58-65;Female;India;Jaipur;26,9124;75,7873
+f26a4e4f-7e9e-481e-a594-fede2d967ec5;18.03.2024;31.03.2024;iPhone 14;Apple;64GB;Blue;iOS;884,00;29;25636;Retail Store;Cash;37;34-41;Female;India;Ahmedabad;23,0225;72,5714
+0c84d254-8e66-4a1b-bf6f-7e069ebb719a;19.03.2024;31.03.2024;iPhone 14;Apple;256GB;Black;iOS;811,00;74;60014;Online;Cash;23;18-25;Female;India;Chennai;13,0827;80,2707
+87a77bc0-8fa3-4742-a85c-8d2a9cbf0c85;20.03.2024;31.03.2024;Galaxy A55;Samsung;128GB;Red;Android;425,00;59;25075;Online;UPI;26;26-33;Female;India;Pune;18,5204;73,8567
+975ab0fa-e6eb-4085-8619-fac496030deb;21.03.2024;31.03.2024;iPhone 15;Apple;128GB;Blue;iOS;829,00;59;48911;Online;Credit Card;26;26-33;Male;India;Kolkata;22,5726;88,3639
+d000d275-0110-4e7c-8087-93cd96e0f30b;22.03.2024;31.03.2024;OnePlus Nord 4;OnePlus;128GB;Black;Android;556,00;67;37252;Online;EMI;27;26-33;Male;Bangladesh;Rajshahi;24,3745;88,6042
+39cd6582-9d4e-43be-b947-8799850d58f0;23.03.2024;31.03.2024;Pixel 9;Google;64GB;Green;Android;777,00;3;2331;Retail Store;EMI;32;26-33;Female;Bangladesh;Chittagong;22,3569;91,7832
+256cf9e1-cd77-4145-951b-d92e44d00cf3;24.03.2024;31.03.2024;Pixel 9 Pro;Google;256GB;Red;Android;1017,00;25;25425;Online;Credit Card;22;18-25;Female;Turkey;Antalya;36,8969;30,7133
+531d046b-c78e-4775-92ef-f4f69901107b;25.03.2024;31.03.2024;OnePlus 11R;OnePlus;128GB;White;Android;668,00;43;28724;Online;Credit Card;42;42-49;Male;India;Hyderabad;17,385;78,4867
+601240e1-e950-441e-96cf-bd7b737a679c;26.03.2024;31.03.2024;Z Fold 6;Samsung;256GB;White;Android;1873,00;19;35587;Retail Store;Credit Card;57;50-57;Other;India;Jaipur;26,9124;75,7873
+f5598f5d-a410-4953-aa55-f02c4206c890;27.03.2024;31.03.2024;Mi 13T Pro;Xiaomi;256GB;Green;Android;513,00;40;20520;Online;Cash;32;26-33;Female;Turkey;Ankara;39,9334;32,8597
+7d4ca499-dae4-4596-840a-8febe483356a;28.03.2024;31.03.2024;Pixel 8a;Google;256GB;White;Android;541,00;32;17312;Online;UPI;51;50-57;Female;Bangladesh;Khulna;22,8456;89,5403
+d7a13904-cd44-4c3f-ba09-3f9928ac3295;29.03.2024;31.03.2024;Galaxy A55;Samsung;128GB;Blue;Android;454,00;3;1362;Online;UPI;28;26-33;Female;Turkey;Bursa;40,1828;29,0665
+07d2b6a9-3e14-400a-be8a-78a04561b012;30.03.2024;31.03.2024;Z Fold 6;Samsung;128GB;White;Android;1810,00;20;36200;Retail Store;Cash;48;42-49;Female;India;Lucknow;26,8467;80,9462
+270eb8a0-d199-4342-9e33-5c456f79e2cc;31.03.2024;31.03.2024;Xiaomi 14 Ultra;Xiaomi;256GB;Black;Android;805,00;19;15295;Retail Store;UPI;30;26-33;Female;India;Delhi;28,7041;77,1025
+b0a25cb1-9098-4721-9c6d-f4da0b93d7d0;01.04.2024;30.04.2024;Redmi Note 13;Xiaomi;256GB;White;Android;326,00;66;21516;Retail Store;Cash;43;42-49;Other;India;Lucknow;26,8467;80,9462
+dc467662-2188-455e-b885-a74bec8d04d0;02.04.2024;30.04.2024;iPhone SE;Apple;256GB;Green;iOS;456,00;93;42408;Online;Cash;56;50-57;Male;Bangladesh;Sylhet;24,8949;91,8687
+13814056-0d13-4b0d-9f3a-4fdbe56970e8;03.04.2024;30.04.2024;OnePlus 11R;OnePlus;256GB;Green;Android;634,00;84;53256;Online;UPI;61;58-65;Male;India;Bangalore;12,9716;77,5946
+6848fd52-ccbd-4bfb-8ddf-349698439e7b;04.04.2024;30.04.2024;OnePlus Nord 4;OnePlus;256GB;Red;Android;573,00;45;25785;Online;Credit Card;19;18-25;Female;Turkey;Antalya;36,8969;30,7133
+fe824ec3-d1da-41d6-b48c-f456b64553cd;05.04.2024;30.04.2024;Redmi Note 13;Xiaomi;128GB;White;Android;323,00;65;20995;Online;Cash;38;34-41;Male;India;Kolkata;22,5726;88,3639
+4a8d009b-8efd-43bd-b7e5-fcce1a070a22;06.04.2024;30.04.2024;OnePlus Nord 4;OnePlus;256GB;Blue;Android;501,00;54;27054;Partner;EMI;46;42-49;Male;India;Delhi;28,7041;77,1025
+d3007fd2-b6fc-4d81-9b85-8b6d5acedf5f;07.04.2024;30.04.2024;Mi 13T Pro;Xiaomi;64GB;Blue;Android;518,00;61;31598;Online;Credit Card;18;18-25;Female;Bangladesh;Dhaka;23,8103;90,4125
+c28cafd9-08a6-4a72-8a89-b05d82993315;08.04.2024;30.04.2024;Galaxy M15;Samsung;64GB;Blue;Android;398,00;21;8358;Online;UPI;62;58-65;Female;Turkey;Antalya;36,8969;30,7133
+58bebb33-c6cf-47e0-9ad7-156735a68caf;09.04.2024;30.04.2024;Pixel 9;Google;256GB;White;Android;735,00;28;20580;Partner;Credit Card;38;34-41;Male;Turkey;Antalya;36,8969;30,7133
+474c5755-50a8-4bee-9af3-e8df247d3769;10.04.2024;30.04.2024;iPhone 14 Pro;Apple;64GB;White;iOS;1032,00;9;9288;Retail Store;Credit Card;26;26-33;Male;India;Delhi;28,7041;77,1025
+784b0c63-1eb4-42bf-a8e1-de0d1f9bbbb2;11.04.2024;30.04.2024;OnePlus 12 Pro;OnePlus;64GB;Blue;Android;875,00;80;70000;Online;Credit Card;60;58-65;Male;Turkey;Izmir;38,4192;27,1287
+00c4011d-0798-4dcd-ba4f-5d7fbbcdc9e5;12.04.2024;30.04.2024;iPhone 15;Apple;128GB;Black;iOS;872,00;54;47088;Online;UPI;55;50-57;Male;India;Mumbai;19,076;72,8777
+43f15613-86fd-4e47-b9eb-ab3624e4fe22;13.04.2024;30.04.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1160,00;49;56840;Partner;Cash;39;34-41;Female;Turkey;Antalya;36,8969;30,7133
+7da7de95-f772-4cc2-bce0-b0873f98233e;14.04.2024;30.04.2024;Galaxy A55;Samsung;256GB;Black;Android;442,00;79;34918;Retail Store;UPI;46;42-49;Female;Bangladesh;Chittagong;22,3569;91,7832
+03b65910-37b4-402c-b17c-6fbe0ccd37dc;15.04.2024;30.04.2024;Pixel 9;Google;256GB;Blue;Android;782,00;23;17986;Online;EMI;33;26-33;Male;Turkey;Istanbul;41,0082;28,9784
+eac79ee6-e787-48df-96a4-ea6b11fd5aa6;16.04.2024;30.04.2024;Galaxy M15;Samsung;128GB;Blue;Android;375,00;19;7125;Partner;Cash;33;26-33;Female;Turkey;Bursa;40,1828;29,0665
+f6911e69-8a1f-4cf0-ad51-e80918c55a81;17.04.2024;30.04.2024;OnePlus Nord 4;OnePlus;64GB;White;Android;584,00;21;12264;Retail Store;Credit Card;38;34-41;Female;India;Delhi;28,7041;77,1025
+077487a5-61c4-4f29-bd88-49901d7b47e7;18.04.2024;30.04.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Blue;Android;837,00;83;69471;Retail Store;Cash;41;34-41;Female;Pakistan;Karachi;24,8607;67,0011
+835823d7-b24b-4420-848f-324c3de8e5c3;19.04.2024;30.04.2024;Pixel 8a;Google;64GB;Black;Android;547,00;3;1641;Partner;Credit Card;32;26-33;Female;Turkey;Izmir;38,4192;27,1287
+592eb398-a865-4282-8a8c-ee125cae45aa;20.04.2024;30.04.2024;Pixel 9;Google;256GB;White;Android;741,00;73;54093;Retail Store;UPI;22;18-25;Other;Turkey;Istanbul;41,0082;28,9784
+ac8bf7a8-fb2b-41f7-a0fa-53272d7bf4b9;21.04.2024;30.04.2024;iPhone 14;Apple;64GB;Blue;iOS;836,00;66;55176;Online;Credit Card;49;42-49;Male;India;Lucknow;26,8467;80,9462
+5759b023-dd6f-4b24-8acf-e8859b3eaab3;22.04.2024;30.04.2024;Pixel 9 Pro;Google;128GB;White;Android;1036,00;69;71484;Retail Store;UPI;44;42-49;Other;Bangladesh;Dhaka;23,8103;90,4125
+d3e82026-2084-40f2-8d5d-d2a94a198af9;23.04.2024;30.04.2024;Pixel 9;Google;256GB;Black;Android;725,00;79;57275;Retail Store;EMI;44;42-49;Female;India;Hyderabad;17,385;78,4867
+746e2d69-e2f6-4a37-8315-8f5443a85e7d;24.04.2024;30.04.2024;Pixel 9 Pro;Google;128GB;Green;Android;1017,00;68;69156;Partner;Credit Card;54;50-57;Male;India;Chennai;13,0827;80,2707
+bca07c20-5f33-4f80-9b7c-e5c8cfea85d4;25.04.2024;30.04.2024;Mi 13T Pro;Xiaomi;128GB;Blue;Android;509,00;16;8144;Retail Store;Cash;38;34-41;Male;Bangladesh;Sylhet;24,8949;91,8687
+87ec627a-e951-47c9-b9bb-b50a1b83771b;26.04.2024;30.04.2024;Redmi Note 13;Xiaomi;128GB;Black;Android;335,00;58;19430;Retail Store;UPI;39;34-41;Female;India;Mumbai;19,076;72,8777
+07fa81d5-6de5-480f-a74c-447d1dafd82b;27.04.2024;30.04.2024;Pixel 8a;Google;128GB;Red;Android;521,00;14;7294;Online;Credit Card;34;34-41;Female;India;Chennai;13,0827;80,2707
+f434cbf9-a064-4fd2-a315-84ae804bb6e3;28.04.2024;30.04.2024;iPhone SE;Apple;256GB;Red;iOS;450,00;43;19350;Online;UPI;36;34-41;Female;India;Bangalore;12,9716;77,5946
+fd677e01-2fe0-41dc-8125-28ac13e93ea1;29.04.2024;30.04.2024;iPhone 14;Apple;128GB;White;iOS;803,00;49;39347;Partner;Credit Card;46;42-49;Female;Turkey;Bursa;40,1828;29,0665
+2e81bb66-267c-4e18-925d-082798a1180f;30.04.2024;30.04.2024;iPhone 15;Apple;128GB;Blue;iOS;828,00;68;56304;Online;Credit Card;64;58-65;Male;Bangladesh;Chittagong;22,3569;91,7832
+c1dd718f-8c25-47a9-bc37-5dd6c767199e;01.05.2024;31.05.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1127,00;85;95795;Retail Store;EMI;19;18-25;Male;Bangladesh;Khulna;22,8456;89,5403
+0371e9b9-a363-4279-a3c0-f94aaa231c35;02.05.2024;31.05.2024;OnePlus 12 Pro;OnePlus;256GB;Red;Android;873,00;8;6984;Online;Credit Card;49;42-49;Female;Turkey;Bursa;40,1828;29,0665
+12f7ac32-9063-4ae5-a122-385b06ba77af;03.05.2024;31.05.2024;iPhone 15;Apple;64GB;White;iOS;880,00;84;73920;Online;UPI;20;18-25;Male;India;Chennai;13,0827;80,2707
+06cbf9e5-391e-4727-a5b0-24c93b3f88df;04.05.2024;31.05.2024;iPhone 15;Apple;64GB;Black;iOS;821,00;93;76353;Retail Store;UPI;25;18-25;Male;Turkey;Antalya;36,8969;30,7133
+73a33eac-425b-4f9a-b864-0ace26cf641e;05.05.2024;31.05.2024;OnePlus 12 Pro;OnePlus;256GB;Green;Android;838,00;51;42738;Online;UPI;19;18-25;Male;India;Pune;18,5204;73,8567
+db6a7b80-0a20-471d-a347-64148616a34c;06.05.2024;31.05.2024;Pixel 8a;Google;64GB;Green;Android;540,00;25;13500;Online;Credit Card;64;58-65;Male;Bangladesh;Rajshahi;24,3745;88,6042
+fa428d4b-c6e6-4892-a985-73db52035660;07.05.2024;31.05.2024;iPhone SE;Apple;256GB;Red;iOS;438,00;85;37230;Online;EMI;44;42-49;Female;Turkey;Istanbul;41,0082;28,9784
+f697038c-e26d-43b8-beae-3824a4242583;08.05.2024;31.05.2024;Pixel 8a;Google;256GB;Green;Android;520,00;62;32240;Retail Store;Credit Card;21;18-25;Female;Bangladesh;Khulna;22,8456;89,5403
+8084578e-c7f4-4a77-9177-22e62a1f2ebf;09.05.2024;31.05.2024;OnePlus 11R;OnePlus;128GB;Red;Android;669,00;54;36126;Partner;Cash;43;42-49;Female;India;Ahmedabad;23,0225;72,5714
+f697038c-e26d-43b8-beae-3824a4242583;10.05.2024;31.05.2024;Pixel 8a;Google;256GB;Green;Android;520,00;62;32240;Retail Store;Credit Card;21;18-25;Female;Bangladesh;Khulna;22,8456;89,5403
+fd6868d4-24fe-46d6-afba-bebbbf09061e;11.05.2024;31.05.2024;Poco X6 Pro;Xiaomi;128GB;Red;Android;395,00;47;18565;Partner;Cash;34;34-41;Male;Turkey;Antalya;36,8969;30,7133
+cbba6938-6721-4ed9-b465-94612dbbc6ab;12.05.2024;31.05.2024;OnePlus Nord 4;OnePlus;256GB;Black;Android;569,00;64;36416;Online;Credit Card;27;26-33;Male;Turkey;Izmir;38,4192;27,1287
+b7181ee7-e3d8-4401-bf0e-c220833d444f;13.05.2024;31.05.2024;Redmi Note 13;Xiaomi;64GB;Black;Android;340,00;6;2040;Online;EMI;26;26-33;Other;Turkey;Antalya;36,8969;30,7133
+9a9a2ad8-8243-41ac-93cc-c179ea2af34c;14.05.2024;31.05.2024;Mi 13T Pro;Xiaomi;64GB;Red;Android;528,00;16;8448;Online;EMI;29;26-33;Female;Turkey;Izmir;38,4192;27,1287
+e41b3943-d8e1-4208-9df5-af3f34b2c70e;15.05.2024;31.05.2024;iPhone 15 Pro;Apple;256GB;White;iOS;1167,00;38;44346;Online;Credit Card;36;34-41;Other;Turkey;Ankara;39,9334;32,8597
+75d025b3-f4e0-4634-af53-2498cae1e486;16.05.2024;31.05.2024;Poco X6 Pro;Xiaomi;128GB;Blue;Android;362,00;75;27150;Online;Cash;32;26-33;Female;Turkey;Bursa;40,1828;29,0665
+39b83ab9-ba07-4744-a3ec-180a86314e4a;17.05.2024;31.05.2024;iPhone 15 Pro;Apple;128GB;Green;iOS;1186,00;33;39138;Online;Cash;30;26-33;Female;India;Ahmedabad;23,0225;72,5714
+6f0c7e6b-bafc-4b7f-aec1-931619bd777c;18.05.2024;31.05.2024;iPhone 14;Apple;256GB;Blue;iOS;800,00;51;40800;Online;UPI;27;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+d1c3c93a-6137-468a-a281-369e38b80eb0;19.05.2024;31.05.2024;Pixel 9;Google;64GB;Blue;Android;722,00;53;38266;Partner;UPI;39;34-41;Female;Turkey;Ankara;39,9334;32,8597
+592eb398-a865-4282-8a8c-ee125cae45aa;20.05.2024;31.05.2024;Pixel 9;Google;256GB;White;Android;741,00;73;54093;Retail Store;UPI;22;18-25;Other;Turkey;Istanbul;41,0082;28,9784
+bba8307d-a14f-4411-a2b1-7691e9102fa7;21.05.2024;31.05.2024;iPhone 14 Pro;Apple;64GB;Red;iOS;1082,00;54;58428;Online;Credit Card;20;18-25;Male;India;Mumbai;19,076;72,8777
+421d315d-d454-485a-9881-e9801611071b;22.05.2024;31.05.2024;OnePlus 11R;OnePlus;128GB;Blue;Android;678,00;33;22374;Online;Credit Card;43;42-49;Male;India;Jaipur;26,9124;75,7873
+bba8307d-a14f-4411-a2b1-7691e9102fa7;23.05.2024;31.05.2024;iPhone 14 Pro;Apple;64GB;Red;iOS;1082,00;54;58428;Online;Credit Card;20;18-25;Male;India;Mumbai;19,076;72,8777
+5608d68a-f743-47df-8ab0-506222864044;24.05.2024;31.05.2024;iPhone 14;Apple;128GB;Blue;iOS;861,00;52;44772;Online;EMI;24;18-25;Female;India;Ahmedabad;23,0225;72,5714
+99f8064c-0a0f-49e3-96eb-1fd34c8b289c;25.05.2024;31.05.2024;Redmi Note 13;Xiaomi;64GB;Black;Android;312,00;64;19968;Online;Cash;18;18-25;Female;India;Ahmedabad;23,0225;72,5714
+27d10756-0d57-4d2a-83bf-f150a150ae73;26.05.2024;31.05.2024;Mi 13T Pro;Xiaomi;64GB;White;Android;529,00;44;23276;Partner;EMI;45;42-49;Male;Turkey;Bursa;40,1828;29,0665
+e90823db-15d9-4085-a915-eb670a753520;27.05.2024;31.05.2024;Xiaomi 14 Ultra;Xiaomi;256GB;Green;Android;855,00;62;53010;Online;Cash;51;50-57;Male;Bangladesh;Rajshahi;24,3745;88,6042
+8d5dc29d-6bf1-4c18-9156-9f8cde7f4f39;28.05.2024;31.05.2024;OnePlus Nord 4;OnePlus;128GB;Black;Android;534,00;91;48594;Online;Credit Card;20;18-25;Male;India;Kolkata;22,5726;88,3639
+4e19f661-161a-43bd-97a7-d60cfb8192da;29.05.2024;31.05.2024;Galaxy M15;Samsung;256GB;Green;Android;325,00;78;25350;Retail Store;Credit Card;61;58-65;Male;Turkey;Bursa;40,1828;29,0665
+dfb76477-24d9-48b0-9266-9500b73c0c40;30.05.2024;31.05.2024;Pixel 8a;Google;128GB;White;Android;545,00;21;11445;Online;Credit Card;57;50-57;Female;India;Lucknow;26,8467;80,9462
+aeca97ff-06ee-46cd-8f8e-58aa97bd295d;31.05.2024;31.05.2024;Mi 13T Pro;Xiaomi;64GB;White;Android;542,00;32;17344;Retail Store;UPI;24;18-25;Female;India;Chennai;13,0827;80,2707
+d88b82f3-1f09-48cd-a48b-ddf2484da53a;01.06.2024;30.06.2024;Pixel 9 Pro;Google;64GB;White;Android;1080,00;31;33480;Online;Credit Card;25;18-25;Female;Turkey;Antalya;36,8969;30,7133
+b80fc87e-d487-45ae-b2db-c91eb2b155b2;02.06.2024;30.06.2024;Pixel 8a;Google;128GB;Black;Android;509,00;35;17815;Online;EMI;30;26-33;Male;Turkey;Bursa;40,1828;29,0665
+23dd9a36-c55f-43a3-bf42-481f3e0ee6a3;03.06.2024;30.06.2024;OnePlus 11R;OnePlus;64GB;White;Android;662,00;71;47002;Online;Credit Card;23;18-25;Male;India;Jaipur;26,9124;75,7873
+cbba6938-6721-4ed9-b465-94612dbbc6ab;04.06.2024;30.06.2024;OnePlus Nord 4;OnePlus;256GB;Black;Android;569,00;64;36416;Online;Credit Card;27;26-33;Male;Turkey;Izmir;38,4192;27,1287
+aa7aa247-efc9-4872-b482-66d779d66291;05.06.2024;30.06.2024;OnePlus 11R;OnePlus;64GB;Red;Android;683,00;27;18441;Online;EMI;55;50-57;Female;Turkey;Antalya;36,8969;30,7133
+918c1785-2c85-4757-a15e-cfddb38dd38e;06.06.2024;30.06.2024;iPhone SE;Apple;64GB;Blue;iOS;451,00;86;38786;Retail Store;UPI;28;26-33;Female;Turkey;Izmir;38,4192;27,1287
+1e273c52-d2b0-45c7-b5e4-eb5fa7349f59;07.06.2024;30.06.2024;iPhone 15;Apple;128GB;Blue;iOS;876,00;54;47304;Retail Store;UPI;19;18-25;Female;India;Kolkata;22,5726;88,3639
+4f87d114-f522-4ead-93e3-f336402df6aa;08.06.2024;30.06.2024;Mi 13T Pro;Xiaomi;256GB;Blue;Android;512,00;64;32768;Retail Store;UPI;55;50-57;Male;Turkey;Antalya;36,8969;30,7133
+027fc1ac-20db-4e5a-9d12-f258b96d1142;09.06.2024;30.06.2024;Galaxy S25 Ultra;Samsung;256GB;Black;Android;1248,00;26;32448;Online;UPI;56;50-57;Other;India;Bangalore;12,9716;77,5946
+c77bb8a7-d4dc-4e94-b544-ecd31ec0724a;10.06.2024;30.06.2024;Galaxy M15;Samsung;64GB;Green;Android;308,00;56;17248;Retail Store;UPI;51;50-57;Female;Turkey;Izmir;38,4192;27,1287
+a84fac8a-948c-452a-819e-47d80945463d;11.06.2024;30.06.2024;iPhone 14;Apple;256GB;Red;iOS;813,00;51;41463;Retail Store;Credit Card;56;50-57;Female;Bangladesh;Khulna;22,8456;89,5403
+b34103e5-2b2b-412e-8312-2993ac4a6ce2;12.06.2024;30.06.2024;Z Fold 6;Samsung;128GB;Green;Android;1850,00;99;183150;Online;EMI;46;42-49;Female;India;Chennai;13,0827;80,2707
+30f86f86-11d6-495d-8d38-dfd5dcb03c3a;13.06.2024;30.06.2024;OnePlus 12 Pro;OnePlus;256GB;Green;Android;891,00;83;73953;Online;Cash;29;26-33;Male;Turkey;Ankara;39,9334;32,8597
+6c536c36-1663-4c8e-9fd4-3d451ec66fdb;14.06.2024;30.06.2024;Galaxy A55;Samsung;128GB;Black;Android;452,00;7;3164;Retail Store;Cash;22;18-25;Female;India;Ahmedabad;23,0225;72,5714
+9d647d9c-dc63-41a5-ae45-7296cbd8c3f7;15.06.2024;30.06.2024;Redmi Note 13;Xiaomi;128GB;Black;Android;316,00;18;5688;Partner;EMI;32;26-33;Male;Bangladesh;Chittagong;22,3569;91,7832
+8e51238a-e2c4-4f2e-8896-3e6c0ad57be1;16.06.2024;30.06.2024;Pixel 8a;Google;64GB;Blue;Android;501,00;24;12024;Online;EMI;57;50-57;Female;Bangladesh;Chittagong;22,3569;91,7832
+6e17deff-b435-4fd1-afb9-27aff2155c4d;17.06.2024;30.06.2024;OnePlus Nord 4;OnePlus;256GB;White;Android;516,00;66;34056;Online;Cash;46;42-49;Male;Turkey;Ankara;39,9334;32,8597
+ec3f2b24-b0b6-44fa-b4d9-8bfb7598ff4e;18.06.2024;30.06.2024;iPhone SE;Apple;128GB;Red;iOS;442,00;24;10608;Online;EMI;25;18-25;Female;India;Pune;18,5204;73,8567
+da032253-d5ac-4572-8c81-a4d378b5ff39;19.06.2024;30.06.2024;Pixel 9;Google;128GB;Green;Android;784,00;12;9408;Online;Cash;27;26-33;Female;Bangladesh;Dhaka;23,8103;90,4125
+8084578e-c7f4-4a77-9177-22e62a1f2ebf;20.06.2024;30.06.2024;OnePlus 11R;OnePlus;128GB;Red;Android;669,00;54;36126;Partner;Cash;43;42-49;Female;India;Ahmedabad;23,0225;72,5714
+9398a206-71cd-46ff-acd1-d99ebb1ed058;21.06.2024;30.06.2024;OnePlus 11R;OnePlus;256GB;White;Android;695,00;51;35445;Partner;UPI;62;58-65;Female;Turkey;Antalya;36,8969;30,7133
+8cec7f87-2347-4bb4-8cdc-9c2a85b94f07;22.06.2024;30.06.2024;Galaxy A55;Samsung;64GB;Black;Android;474,00;92;43608;Online;EMI;52;50-57;Male;Turkey;Bursa;40,1828;29,0665
+7e2ce318-5380-452d-81ec-254a41d9ce67;23.06.2024;30.06.2024;Galaxy S25 Ultra;Samsung;64GB;Green;Android;1255,00;26;32630;Online;Credit Card;39;34-41;Female;Turkey;Izmir;38,4192;27,1287
+a9cd54db-2023-4060-ae7b-f14621fb7c15;24.06.2024;30.06.2024;Poco X6 Pro;Xiaomi;256GB;Black;Android;386,00;57;22002;Retail Store;EMI;38;34-41;Other;Turkey;Izmir;38,4192;27,1287
+98844777-0706-4954-967c-eba273be9786;25.06.2024;30.06.2024;OnePlus Nord 4;OnePlus;128GB;White;Android;504,00;32;16128;Online;EMI;31;26-33;Male;India;Hyderabad;17,385;78,4867
+97eeef8c-56dd-47b9-b9d9-b26ad38c0cc6;26.06.2024;30.06.2024;Galaxy S25 Ultra;Samsung;64GB;Green;Android;1265,00;75;94875;Online;Credit Card;53;50-57;Male;India;Kolkata;22,5726;88,3639
+baf11b3f-a0f6-4c34-9304-798185427b4b;27.06.2024;30.06.2024;iPhone SE;Apple;256GB;Blue;iOS;478,00;50;23900;Online;EMI;49;42-49;Male;Pakistan;Islamabad;33,6844;73,0479
+f1501b05-2741-47b9-8fef-3bb5fd227f3c;28.06.2024;30.06.2024;OnePlus 12 Pro;OnePlus;64GB;White;Android;835,00;71;59285;Online;EMI;61;58-65;Male;India;Hyderabad;17,385;78,4867
+73f4ae54-30b9-4336-9a6a-82d52f683932;29.06.2024;30.06.2024;OnePlus Nord 4;OnePlus;64GB;White;Android;562,00;57;32034;Online;Credit Card;41;34-41;Male;Bangladesh;Sylhet;24,8949;91,8687
+9a9a2ad8-8243-41ac-93cc-c179ea2af34c;30.06.2024;30.06.2024;Mi 13T Pro;Xiaomi;64GB;Red;Android;528,00;16;8448;Online;EMI;29;26-33;Female;Turkey;Izmir;38,4192;27,1287
+a9973ffe-e4ec-40ba-912d-f3275a8cd0bf;01.07.2024;31.07.2024;Xiaomi 14 Ultra;Xiaomi;64GB;Green;Android;818,00;43;35174;Online;Credit Card;33;26-33;Male;Turkey;Bursa;40,1828;29,0665
+69dcedc9-84c1-4736-9a47-cdcc1adfde86;02.07.2024;31.07.2024;iPhone SE;Apple;256GB;Green;iOS;433,00;90;38970;Online;UPI;24;18-25;Other;India;Mumbai;19,076;72,8777
+3ac3e788-e9f8-4c0e-856a-178386e77dc5;03.07.2024;31.07.2024;Xiaomi 14 Ultra;Xiaomi;256GB;Red;Android;870,00;72;62640;Online;Credit Card;26;26-33;Female;Turkey;Antalya;36,8969;30,7133
+b39ecb5c-062b-4c87-ae77-e75b20957ba5;04.07.2024;31.07.2024;Pixel 9 Pro;Google;128GB;Green;Android;1098,00;80;87840;Retail Store;EMI;61;58-65;Female;India;Mumbai;19,076;72,8777
+631a8080-bfa4-4324-a1a1-708590b58946;05.07.2024;31.07.2024;Pixel 9;Google;128GB;Red;Android;779,00;47;36613;Online;EMI;58;58-65;Male;India;Mumbai;19,076;72,8777
+4bf65265-8b98-440f-a66e-efef35df43f9;06.07.2024;31.07.2024;OnePlus 11R;OnePlus;64GB;Red;Android;649,00;58;37642;Online;EMI;64;58-65;Other;India;Hyderabad;17,385;78,4867
+381d1e2b-f1be-4163-bbe1-97b02725d239;07.07.2024;31.07.2024;Z Fold 6;Samsung;128GB;Black;Android;1845,00;25;46125;Partner;Credit Card;55;50-57;Male;India;Chennai;13,0827;80,2707
+d830c382-2f68-4f61-aa3a-8e32120a4d2e;08.07.2024;31.07.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1134,00;54;61236;Online;EMI;27;26-33;Male;Turkey;Bursa;40,1828;29,0665
+dfa4beca-1ebe-46c1-90aa-6e28c8e044f7;09.07.2024;31.07.2024;Pixel 9 Pro;Google;128GB;Black;Android;1013,00;14;14182;Online;EMI;23;18-25;Male;India;Ahmedabad;23,0225;72,5714
+dced92e7-8ee8-4eab-837e-c2b2ca0510a2;10.07.2024;31.07.2024;Pixel 9;Google;256GB;Green;Android;771,00;85;65535;Online;Cash;62;58-65;Female;India;Lucknow;26,8467;80,9462
+75b69bdf-bcfa-45ec-bb34-0edfaa0f1b60;11.07.2024;31.07.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Black;Android;824,00;88;72512;Online;Cash;42;42-49;Female;Turkey;Ankara;39,9334;32,8597
+0b2038fe-3514-4341-984e-c9fafd24a1a5;12.07.2024;31.07.2024;iPhone 14 Pro;Apple;256GB;White;iOS;1076,00;21;22596;Online;Credit Card;42;42-49;Female;India;Delhi;28,7041;77,1025
+0b2038fe-3514-4341-984e-c9fafd24a1a5;13.07.2024;31.07.2024;iPhone 14 Pro;Apple;256GB;White;iOS;1076,00;21;22596;Online;Credit Card;42;42-49;Female;India;Delhi;28,7041;77,1025
+cf0ec4eb-6751-4904-9980-9cbacd679c14;14.07.2024;31.07.2024;iPhone 14 Pro;Apple;256GB;Red;iOS;1022,00;79;80738;Online;UPI;55;50-57;Male;India;Lucknow;26,8467;80,9462
+3b76ccfb-7609-4032-b895-932df8d3e143;15.07.2024;31.07.2024;Pixel 9 Pro;Google;128GB;White;Android;1034,00;15;15510;Partner;Cash;23;18-25;Male;India;Mumbai;19,076;72,8777
+75b69bdf-bcfa-45ec-bb34-0edfaa0f1b60;16.07.2024;31.07.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Black;Android;824,00;88;72512;Online;Cash;42;42-49;Female;Turkey;Ankara;39,9334;32,8597
+233dfd88-f3be-42be-b464-0ed920bc2194;17.07.2024;31.07.2024;Z Fold 6;Samsung;64GB;Black;Android;1855,00;17;31535;Retail Store;Cash;46;42-49;Male;India;Delhi;28,7041;77,1025
+7278319c-f4ff-4957-8747-de5d8c4fb0b2;18.07.2024;31.07.2024;Redmi Note 13;Xiaomi;64GB;Green;Android;319,00;34;10846;Partner;EMI;34;34-41;Other;India;Jaipur;26,9124;75,7873
+a01cf58f-776a-44aa-9bf0-acb2e791bf54;19.07.2024;31.07.2024;iPhone SE;Apple;128GB;Green;iOS;456,00;9;4104;Online;EMI;21;18-25;Female;Turkey;Ankara;39,9334;32,8597
+87ec627a-e951-47c9-b9bb-b50a1b83771b;20.07.2024;31.07.2024;Redmi Note 13;Xiaomi;128GB;Black;Android;335,00;58;19430;Retail Store;UPI;39;34-41;Female;India;Mumbai;19,076;72,8777
+381d1e2b-f1be-4163-bbe1-97b02725d239;21.07.2024;31.07.2024;Z Fold 6;Samsung;128GB;Black;Android;1845,00;25;46125;Partner;Credit Card;55;50-57;Male;India;Chennai;13,0827;80,2707
+492e27be-a5dd-4bdd-a3ca-64a0a880494e;22.07.2024;31.07.2024;Pixel 9 Pro;Google;64GB;Red;Android;1099,00;66;72534;Online;Credit Card;27;26-33;Male;India;Chennai;13,0827;80,2707
+5459cd0f-80b8-45bb-8122-82f6a3b60075;23.07.2024;31.07.2024;Z Fold 6;Samsung;128GB;Black;Android;1863,00;34;63342;Partner;Cash;48;42-49;Male;India;Delhi;28,7041;77,1025
+1b246f4b-b8b3-4cec-b801-bde2d1987509;24.07.2024;31.07.2024;OnePlus 12 Pro;OnePlus;128GB;Blue;Android;854,00;37;31598;Online;Credit Card;44;42-49;Male;Turkey;Izmir;38,4192;27,1287
+13ebb7aa-97d8-473f-8cb1-ed72c9a517c2;25.07.2024;31.07.2024;OnePlus 12 Pro;OnePlus;64GB;Black;Android;823,00;92;75716;Retail Store;EMI;18;18-25;Male;Turkey;Istanbul;41,0082;28,9784
+ce868ecb-e271-4b6d-ab3a-ce32f22cc95c;26.07.2024;31.07.2024;iPhone 15;Apple;64GB;White;iOS;886,00;73;64678;Online;Cash;43;42-49;Female;India;Lucknow;26,8467;80,9462
+9bb46792-867e-42a4-8fa8-e5a9fcd85d68;27.07.2024;31.07.2024;OnePlus Nord 4;OnePlus;64GB;White;Android;564,00;36;20304;Partner;EMI;20;18-25;Female;India;Lucknow;26,8467;80,9462
+81b50cb3-6f6e-47eb-84fb-08ecd54c20f4;28.07.2024;31.07.2024;Pixel 9 Pro;Google;128GB;Red;Android;1067,00;13;13871;Retail Store;EMI;19;18-25;Male;Bangladesh;Chittagong;22,3569;91,7832
+45d2ad88-0e27-477f-9a74-3990ebd65838;29.07.2024;31.07.2024;Galaxy M15;Samsung;256GB;Red;Android;321,00;55;17655;Online;Credit Card;33;26-33;Female;India;Jaipur;26,9124;75,7873
+57a14899-fdc3-4bc4-82fb-dee041cc5085;30.07.2024;31.07.2024;iPhone 14;Apple;256GB;White;iOS;816,00;95;77520;Online;EMI;21;18-25;Female;India;Delhi;28,7041;77,1025
+80fecc89-f65c-4c3c-ac77-4ae004ffaa25;31.07.2024;31.07.2024;Pixel 8a;Google;64GB;Green;Android;543,00;32;17376;Online;Credit Card;37;34-41;Female;India;Bangalore;12,9716;77,5946
+ac8bf7a8-fb2b-41f7-a0fa-53272d7bf4b9;01.08.2024;31.08.2024;iPhone 14;Apple;64GB;Blue;iOS;836,00;66;55176;Online;Credit Card;49;42-49;Male;India;Lucknow;26,8467;80,9462
+ab65afba-2bee-46a3-8b23-fda5f5d18601;02.08.2024;31.08.2024;Poco X6 Pro;Xiaomi;256GB;Blue;Android;351,00;19;6669;Partner;Cash;41;34-41;Female;India;Jaipur;26,9124;75,7873
+223adf80-0b39-4da3-b7b1-a9f42064fc5b;03.08.2024;31.08.2024;Pixel 9;Google;128GB;Black;Android;750,00;8;6000;Online;UPI;20;18-25;Female;India;Ahmedabad;23,0225;72,5714
+83825219-5c2e-49f1-99ca-7ccd1edebb71;04.08.2024;31.08.2024;Mi 13T Pro;Xiaomi;64GB;Black;Android;521,00;88;45848;Online;EMI;54;50-57;Male;Turkey;Antalya;36,8969;30,7133
+c6c2bdcc-6479-444e-8ea7-98fdd924178c;05.08.2024;31.08.2024;Mi 13T Pro;Xiaomi;256GB;Blue;Android;531,00;52;27612;Retail Store;Cash;60;58-65;Other;Turkey;Ankara;39,9334;32,8597
+5715966f-620a-44f4-b08d-9c444264c4c1;06.08.2024;31.08.2024;OnePlus 11R;OnePlus;256GB;Black;Android;699,00;39;27261;Online;Cash;29;26-33;Female;Turkey;Antalya;36,8969;30,7133
+5bc75cac-25a8-4cff-af9c-953f17ae6624;07.08.2024;31.08.2024;Pixel 8a;Google;64GB;White;Android;512,00;34;17408;Online;Cash;29;26-33;Other;India;Bangalore;12,9716;77,5946
+4df64a47-3dd2-49f1-bca8-6650b0021bca;08.08.2024;31.08.2024;Galaxy A55;Samsung;128GB;Green;Android;413,00;25;10325;Online;UPI;42;42-49;Female;India;Bangalore;12,9716;77,5946
+391959dc-a30c-4625-83fe-c56bc5a23c7b;09.08.2024;31.08.2024;OnePlus 12 Pro;OnePlus;256GB;Blue;Android;843,00;97;81771;Online;Credit Card;34;34-41;Female;Turkey;Antalya;36,8969;30,7133
+a8636322-29d8-4152-b812-15b95f4b4444;10.08.2024;31.08.2024;OnePlus 12 Pro;OnePlus;64GB;Green;Android;803,00;97;77891;Online;Cash;21;18-25;Male;India;Chennai;13,0827;80,2707
+1f93f947-f3ce-4bc7-8a74-a2f7b369a3dd;11.08.2024;31.08.2024;Pixel 9;Google;128GB;Black;Android;792,00;20;15840;Online;Credit Card;41;34-41;Female;Turkey;Istanbul;41,0082;28,9784
+0a2ea933-d97c-47c9-8967-ee955688d891;12.08.2024;31.08.2024;Pixel 8a;Google;256GB;Black;Android;516,00;20;10320;Online;Credit Card;42;42-49;Female;Turkey;Izmir;38,4192;27,1287
+bdcfcebc-1663-4012-9c26-f8e08371ef8c;13.08.2024;31.08.2024;Mi 13T Pro;Xiaomi;128GB;Blue;Android;535,00;76;40660;Online;UPI;41;34-41;Male;India;Lucknow;26,8467;80,9462
+97aef928-83ce-474f-b069-20f61eeb351a;14.08.2024;31.08.2024;Pixel 9;Google;256GB;Blue;Android;726,00;16;11616;Online;EMI;48;42-49;Male;Turkey;Bursa;40,1828;29,0665
+c05f4a0d-cdff-413b-82c6-a5522ce92982;15.08.2024;31.08.2024;Galaxy M15;Samsung;64GB;White;Android;395,00;75;29625;Online;UPI;62;58-65;Female;India;Pune;18,5204;73,8567
+ed375851-0745-4782-b208-7e4a575211a2;16.08.2024;31.08.2024;Galaxy S25 Ultra;Samsung;128GB;Red;Android;1293,00;2;2586;Retail Store;Cash;36;34-41;Female;India;Pune;18,5204;73,8567
+eb770352-6be0-4e43-a586-c70ae6cb0625;17.08.2024;31.08.2024;Mi 13T Pro;Xiaomi;128GB;Blue;Android;525,00;51;26775;Online;Cash;29;26-33;Female;India;Jaipur;26,9124;75,7873
+b4de2bb0-6426-4ae0-bc2d-1d6bc309fb38;18.08.2024;31.08.2024;Poco X6 Pro;Xiaomi;256GB;Black;Android;382,00;75;28650;Partner;EMI;19;18-25;Male;Turkey;Istanbul;41,0082;28,9784
+c17792ae-d323-4d3a-a640-749d7fe6e5de;19.08.2024;31.08.2024;Galaxy M15;Samsung;64GB;Red;Android;356,00;58;20648;Retail Store;EMI;23;18-25;Other;India;Bangalore;12,9716;77,5946
+ccebab09-9abd-4642-ae8e-aad2f31519c3;20.08.2024;31.08.2024;Z Fold 6;Samsung;128GB;Red;Android;1857,00;94;174558;Online;Credit Card;19;18-25;Female;India;Chennai;13,0827;80,2707
+f6911e69-8a1f-4cf0-ad51-e80918c55a81;21.08.2024;31.08.2024;OnePlus Nord 4;OnePlus;64GB;White;Android;584,00;21;12264;Retail Store;Credit Card;38;34-41;Female;India;Delhi;28,7041;77,1025
+76027fce-477f-4b8c-ac42-f92f46120e88;22.08.2024;31.08.2024;Galaxy M15;Samsung;128GB;Black;Android;306,00;20;6120;Online;EMI;19;18-25;Female;India;Hyderabad;17,385;78,4867
+7da7de95-f772-4cc2-bce0-b0873f98233e;23.08.2024;31.08.2024;Galaxy A55;Samsung;256GB;Black;Android;442,00;79;34918;Retail Store;UPI;46;42-49;Female;Bangladesh;Chittagong;22,3569;91,7832
+6cdafe35-9217-4584-9278-91cac7d6c8e5;24.08.2024;31.08.2024;Poco X6 Pro;Xiaomi;64GB;Blue;Android;356,00;62;22072;Online;UPI;59;58-65;Male;India;Bangalore;12,9716;77,5946
+e2b513d1-e3c2-4592-b59e-735b9c1fc2c1;25.08.2024;31.08.2024;Z Fold 6;Samsung;64GB;White;Android;1808,00;54;97632;Online;Cash;60;58-65;Male;Turkey;Ankara;39,9334;32,8597
+57f49450-3afd-414c-88da-12ce37fdce1b;26.08.2024;31.08.2024;iPhone SE;Apple;64GB;Red;iOS;465,00;71;33015;Online;UPI;56;50-57;Male;India;Chennai;13,0827;80,2707
+975126b2-9aa0-471d-98e6-96da12bec7c3;27.08.2024;31.08.2024;OnePlus 12 Pro;OnePlus;128GB;Blue;Android;891,00;84;74844;Online;UPI;39;34-41;Male;India;Pune;18,5204;73,8567
+b5cbe4ea-8f98-4227-b05b-ff80d82757a2;28.08.2024;31.08.2024;iPhone 15 Pro;Apple;256GB;Red;iOS;1156,00;73;84388;Partner;Cash;63;58-65;Female;India;Kolkata;22,5726;88,3639
+f12aa1b8-63e7-4bbb-b320-1a22ce062d1d;29.08.2024;31.08.2024;Galaxy S25 Ultra;Samsung;256GB;White;Android;1286,00;84;108024;Online;Credit Card;26;26-33;Male;India;Jaipur;26,9124;75,7873
+e5032217-c447-4d62-9536-64448dd8fd17;30.08.2024;31.08.2024;Redmi Note 13;Xiaomi;128GB;White;Android;301,00;65;19565;Partner;Cash;36;34-41;Female;Turkey;Antalya;36,8969;30,7133
+8d757a3c-6ffc-4b44-97aa-de01f6bc3b56;31.08.2024;31.08.2024;Poco X6 Pro;Xiaomi;64GB;Green;Android;369,00;81;29889;Retail Store;Credit Card;40;34-41;Female;India;Hyderabad;17,385;78,4867
+8fdb323b-83af-4344-8d72-b57ec9589874;01.09.2024;30.09.2024;iPhone 14 Pro;Apple;64GB;Red;iOS;1042,00;19;19798;Partner;Cash;59;58-65;Male;Turkey;Ankara;39,9334;32,8597
+baf11b3f-a0f6-4c34-9304-798185427b4b;02.09.2024;30.09.2024;iPhone SE;Apple;256GB;Blue;iOS;478,00;50;23900;Online;EMI;49;42-49;Male;Pakistan;Islamabad;33,6844;73,0479
+b285b45a-4d7f-4177-ae0f-6765d4a98db9;03.09.2024;30.09.2024;Redmi Note 13;Xiaomi;128GB;Blue;Android;335,00;70;23450;Online;Cash;23;18-25;Female;India;Jaipur;26,9124;75,7873
+1593f027-9cc6-442a-86e5-573651d5baf3;04.09.2024;30.09.2024;Mi 13T Pro;Xiaomi;128GB;Black;Android;546,00;36;19656;Retail Store;UPI;20;18-25;Male;Bangladesh;Dhaka;23,8103;90,4125
+673ba242-77f0-4978-8a16-d8f590cf8be3;05.09.2024;30.09.2024;Pixel 9;Google;64GB;Black;Android;789,00;47;37083;Retail Store;UPI;23;18-25;Female;India;Delhi;28,7041;77,1025
+8ddf0eb5-4903-40ab-9d0c-df96394dc01c;06.09.2024;30.09.2024;Galaxy A55;Samsung;64GB;Black;Android;459,00;34;15606;Online;UPI;32;26-33;Male;Bangladesh;Rajshahi;24,3745;88,6042
+fa2fe475-58ab-45e0-8665-423ac1d99875;07.09.2024;30.09.2024;Poco X6 Pro;Xiaomi;64GB;Black;Android;395,00;37;14615;Online;UPI;46;42-49;Female;Pakistan;Islamabad;33,6844;73,0479
+00a9cf7e-f55f-43c2-80e2-32c3091fb23f;08.09.2024;30.09.2024;iPhone 14 Pro;Apple;64GB;Black;iOS;1063,00;21;22323;Online;Cash;28;26-33;Male;India;Mumbai;19,076;72,8777
+41c0dca7-45ea-4a15-a721-a0817bf9e9bd;09.09.2024;30.09.2024;Pixel 8a;Google;256GB;Green;Android;535,00;11;5885;Online;Cash;43;42-49;Male;Pakistan;Lahore;31,5497;74,3436
+6f0c7e6b-bafc-4b7f-aec1-931619bd777c;10.09.2024;30.09.2024;iPhone 14;Apple;256GB;Blue;iOS;800,00;51;40800;Online;UPI;27;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+5815ba82-f44e-4610-83d7-28b12cf22bae;11.09.2024;30.09.2024;OnePlus Nord 4;OnePlus;64GB;Blue;Android;538,00;67;36046;Retail Store;EMI;64;58-65;Female;Bangladesh;Dhaka;23,8103;90,4125
+0835e90c-955f-47dc-87df-98c314e501a7;12.09.2024;30.09.2024;Pixel 9 Pro;Google;128GB;Black;Android;1048,00;87;91176;Online;EMI;35;34-41;Female;Turkey;Bursa;40,1828;29,0665
+8a020b59-0bf5-4548-8b12-0380b5d1a25f;13.09.2024;30.09.2024;iPhone 14;Apple;64GB;White;iOS;856,00;33;28248;Partner;UPI;31;26-33;Female;Turkey;Izmir;38,4192;27,1287
+ae88502d-6495-4cbb-adaa-c12247525627;14.09.2024;30.09.2024;OnePlus Nord 4;OnePlus;128GB;Red;Android;592,00;39;23088;Online;EMI;18;18-25;Female;Bangladesh;Rajshahi;24,3745;88,6042
+13ebb7aa-97d8-473f-8cb1-ed72c9a517c2;15.09.2024;30.09.2024;OnePlus 12 Pro;OnePlus;64GB;Black;Android;823,00;92;75716;Retail Store;EMI;18;18-25;Male;Turkey;Istanbul;41,0082;28,9784
+2e531f19-941b-4e8c-83db-16ba3e5eca52;16.09.2024;30.09.2024;OnePlus 11R;OnePlus;128GB;Green;Android;676,00;33;22308;Retail Store;Cash;20;18-25;Female;India;Hyderabad;17,385;78,4867
+2d8c5839-74ea-42ab-9ba7-3f96d96efd87;17.09.2024;30.09.2024;Galaxy A55;Samsung;256GB;Blue;Android;422,00;29;12238;Online;UPI;48;42-49;Male;India;Pune;18,5204;73,8567
+2854bddf-ed59-41f1-8479-21469066db0a;18.09.2024;30.09.2024;OnePlus Nord 4;OnePlus;64GB;Green;Android;583,00;44;25652;Online;Credit Card;28;26-33;Female;India;Ahmedabad;23,0225;72,5714
+00c4011d-0798-4dcd-ba4f-5d7fbbcdc9e5;19.09.2024;30.09.2024;iPhone 15;Apple;128GB;Black;iOS;872,00;54;47088;Online;UPI;55;50-57;Male;India;Mumbai;19,076;72,8777
+173d6e2c-d2d4-4a78-9b56-8ff05194c0be;20.09.2024;30.09.2024;OnePlus 12 Pro;OnePlus;64GB;Black;Android;835,00;94;78490;Online;UPI;23;18-25;Female;India;Jaipur;26,9124;75,7873
+c86ae247-2192-41cc-807f-a310c91877e4;21.09.2024;30.09.2024;Mi 13T Pro;Xiaomi;64GB;Black;Android;518,00;24;12432;Retail Store;Credit Card;40;34-41;Female;India;Ahmedabad;23,0225;72,5714
+af44b142-5392-4d93-9060-ad7d5c8022f3;22.09.2024;30.09.2024;iPhone SE;Apple;256GB;Blue;iOS;429,00;46;19734;Retail Store;EMI;52;50-57;Male;India;Pune;18,5204;73,8567
+26f1b986-7049-473e-988d-e72bab62a70b;23.09.2024;30.09.2024;Pixel 8a;Google;128GB;White;Android;520,00;6;3120;Online;UPI;34;34-41;Female;Bangladesh;Khulna;22,8456;89,5403
+7df13af7-873c-4afb-b644-9f9ecf79410d;24.09.2024;30.09.2024;iPhone SE;Apple;256GB;White;iOS;459,00;33;15147;Online;Credit Card;22;18-25;Other;Turkey;Bursa;40,1828;29,0665
+d830c382-2f68-4f61-aa3a-8e32120a4d2e;25.09.2024;30.09.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1134,00;54;61236;Online;EMI;27;26-33;Male;Turkey;Bursa;40,1828;29,0665
+9eae19c3-5353-4d1a-b557-73080cfa4100;26.09.2024;30.09.2024;Redmi Note 13;Xiaomi;128GB;Black;Android;335,00;95;31825;Partner;EMI;46;42-49;Female;India;Bangalore;12,9716;77,5946
+ad2b4bff-dce0-4620-bc82-f904e60c49cb;27.09.2024;30.09.2024;Poco X6 Pro;Xiaomi;256GB;White;Android;357,00;67;23919;Retail Store;Cash;34;34-41;Female;Pakistan;Karachi;24,8607;67,0011
+da53593b-9281-4a8c-91c7-273d25c02541;28.09.2024;30.09.2024;iPhone 15 Pro;Apple;128GB;Blue;iOS;1189,00;40;47560;Partner;EMI;19;18-25;Male;India;Pune;18,5204;73,8567
+7d2d67fc-835c-48f1-9edd-8537d9fefc7e;29.09.2024;30.09.2024;Z Fold 6;Samsung;256GB;Blue;Android;1815,00;59;107085;Online;Credit Card;45;42-49;Other;India;Kolkata;22,5726;88,3639
+18eb14f3-3767-47a1-89c3-321be94156e3;30.09.2024;30.09.2024;Pixel 8a;Google;256GB;White;Android;520,00;6;3120;Online;UPI;30;26-33;Female;Turkey;Ankara;39,9334;32,8597
+1687bec4-ccc8-4abe-81d1-d3c34ceb1b5f;01.10.2024;31.10.2024;Z Fold 6;Samsung;256GB;Red;Android;1858,00;17;31586;Online;EMI;27;26-33;Female;Bangladesh;Khulna;22,8456;89,5403
+41d46fa9-746c-4c6c-8da6-93a6417f2355;02.10.2024;31.10.2024;Pixel 9 Pro;Google;256GB;Black;Android;1029,00;71;73059;Online;Cash;47;42-49;Female;India;Jaipur;26,9124;75,7873
+93995cc4-4535-40b3-9ba0-f1a2b5f89f0f;03.10.2024;31.10.2024;iPhone 15;Apple;256GB;Black;iOS;864,00;67;57888;Retail Store;UPI;30;26-33;Female;Turkey;Izmir;38,4192;27,1287
+d73e4e8b-1032-4086-aa77-8cf8fea98d25;04.10.2024;31.10.2024;Mi 13T Pro;Xiaomi;256GB;Blue;Android;538,00;49;26362;Partner;Cash;64;58-65;Female;Turkey;Izmir;38,4192;27,1287
+baefeff0-2f10-4ab3-81fe-50e61276494f;05.10.2024;31.10.2024;Z Fold 6;Samsung;256GB;Black;Android;1837,00;6;11022;Online;Cash;42;42-49;Male;India;Kolkata;22,5726;88,3639
+a9d4ebfb-3a5b-4d27-a847-0a606c6eaf6f;06.10.2024;31.10.2024;OnePlus Nord 4;OnePlus;128GB;White;Android;561,00;53;29733;Partner;Credit Card;28;26-33;Female;Turkey;Izmir;38,4192;27,1287
+c17792ae-d323-4d3a-a640-749d7fe6e5de;07.10.2024;31.10.2024;Galaxy M15;Samsung;64GB;Red;Android;356,00;58;20648;Retail Store;EMI;23;18-25;Other;India;Bangalore;12,9716;77,5946
+bc12e24b-f585-4548-9fc4-26c8ad86e7f8;08.10.2024;31.10.2024;OnePlus 11R;OnePlus;128GB;White;Android;683,00;90;61470;Online;Cash;62;58-65;Female;India;Ahmedabad;23,0225;72,5714
+e50290db-1725-4255-9fb6-a5e7a4d02d74;09.10.2024;31.10.2024;Galaxy A55;Samsung;256GB;Blue;Android;443,00;77;34111;Online;Cash;62;58-65;Female;India;Mumbai;19,076;72,8777
+5b88ab1e-fb86-4e1f-8cb2-0a2b2b5175c1;10.10.2024;31.10.2024;Xiaomi 14 Ultra;Xiaomi;64GB;Black;Android;828,00;42;34776;Online;Cash;19;18-25;Male;Turkey;Istanbul;41,0082;28,9784
+b1a479c9-4caa-4cc6-b5aa-557b0b1bb69c;11.10.2024;31.10.2024;OnePlus 12 Pro;OnePlus;256GB;Red;Android;814,00;37;30118;Online;Cash;47;42-49;Male;Turkey;Istanbul;41,0082;28,9784
+65cc396b-4349-4ee3-83b6-b73333f93133;12.10.2024;31.10.2024;Pixel 8a;Google;128GB;Red;Android;546,00;49;26754;Retail Store;Credit Card;34;34-41;Female;India;Kolkata;22,5726;88,3639
+caab0fa6-37de-4faf-832b-531517c80874;13.10.2024;31.10.2024;iPhone 15 Pro;Apple;256GB;Green;iOS;1139,00;44;50116;Online;UPI;31;26-33;Male;Bangladesh;Chittagong;22,3569;91,7832
+462cf16a-9332-454f-8059-676e62156f3b;14.10.2024;31.10.2024;Z Fold 6;Samsung;128GB;White;Android;1816,00;84;152544;Online;UPI;41;34-41;Male;Turkey;Ankara;39,9334;32,8597
+b4df370f-821b-43aa-a876-841b99222c0b;15.10.2024;31.10.2024;OnePlus Nord 4;OnePlus;64GB;Green;Android;571,00;73;41683;Online;Credit Card;59;58-65;Male;Bangladesh;Sylhet;24,8949;91,8687
+be14475a-5ac8-4fdb-afdd-2e05fc45947a;16.10.2024;31.10.2024;iPhone 14 Pro;Apple;128GB;Blue;iOS;1013,00;36;36468;Retail Store;Credit Card;42;42-49;Female;Turkey;Antalya;36,8969;30,7133
+44f2a19f-ad29-478b-afc1-a94f43cf4b01;17.10.2024;31.10.2024;Pixel 9;Google;64GB;Blue;Android;792,00;4;3168;Online;Credit Card;40;34-41;Female;Bangladesh;Rajshahi;24,3745;88,6042
+bc96e2cb-0ca7-4eb6-a698-acb8e6f1577c;18.10.2024;31.10.2024;Poco X6 Pro;Xiaomi;64GB;Red;Android;370,00;8;2960;Online;Cash;28;26-33;Male;Turkey;Izmir;38,4192;27,1287
+492e27be-a5dd-4bdd-a3ca-64a0a880494e;19.10.2024;31.10.2024;Pixel 9 Pro;Google;64GB;Red;Android;1099,00;66;72534;Online;Credit Card;27;26-33;Male;India;Chennai;13,0827;80,2707
+027fc1ac-20db-4e5a-9d12-f258b96d1142;20.10.2024;31.10.2024;Galaxy S25 Ultra;Samsung;256GB;Black;Android;1248,00;26;32448;Online;UPI;56;50-57;Other;India;Bangalore;12,9716;77,5946
+ee4e3ab6-7c6f-4119-819d-6ba71e0da773;21.10.2024;31.10.2024;Galaxy A55;Samsung;128GB;Red;Android;470,00;23;10810;Retail Store;Cash;51;50-57;Male;India;Chennai;13,0827;80,2707
+bbf10f68-d604-45be-aabe-e39d85e0ff20;22.10.2024;31.10.2024;iPhone 14 Pro;Apple;128GB;Red;iOS;1053,00;65;68445;Online;EMI;59;58-65;Male;India;Hyderabad;17,385;78,4867
+2495de7b-419a-4883-8075-d5959162492d;23.10.2024;31.10.2024;iPhone 14;Apple;64GB;Black;iOS;809,00;72;58248;Online;Credit Card;41;34-41;Female;Bangladesh;Sylhet;24,8949;91,8687
+b0bf3c70-7bb3-4514-92f7-e752db4def1b;24.10.2024;31.10.2024;Galaxy S25 Ultra;Samsung;128GB;Green;Android;1269,00;78;98982;Partner;UPI;47;42-49;Female;India;Pune;18,5204;73,8567
+99ea4ef2-dca1-42ce-9d65-99314b4bc2a2;25.10.2024;31.10.2024;OnePlus 11R;OnePlus;64GB;Black;Android;601,00;78;46878;Retail Store;Credit Card;51;50-57;Male;Bangladesh;Chittagong;22,3569;91,7832
+7b0cb646-6dc6-4c1d-85d6-75e2701cb1c9;26.10.2024;31.10.2024;OnePlus 12 Pro;OnePlus;256GB;Red;Android;854,00;75;64050;Online;UPI;63;58-65;Male;Turkey;Istanbul;41,0082;28,9784
+16960cd1-2989-4ae0-97e1-47db52d5e944;27.10.2024;31.10.2024;Poco X6 Pro;Xiaomi;256GB;Red;Android;350,00;11;3850;Retail Store;UPI;43;42-49;Female;India;Ahmedabad;23,0225;72,5714
+ab65afba-2bee-46a3-8b23-fda5f5d18601;28.10.2024;31.10.2024;Poco X6 Pro;Xiaomi;256GB;Blue;Android;351,00;19;6669;Partner;Cash;41;34-41;Female;India;Jaipur;26,9124;75,7873
+9d1f033a-a271-475b-97ff-c85f667a334e;29.10.2024;31.10.2024;iPhone 14;Apple;128GB;White;iOS;822,00;9;7398;Retail Store;Cash;56;50-57;Female;Turkey;Izmir;38,4192;27,1287
+fe80a264-a2ac-45ae-80ea-c67c6ba9a045;30.10.2024;31.10.2024;Pixel 9;Google;128GB;Red;Android;704,00;82;57728;Online;EMI;48;42-49;Other;Turkey;Antalya;36,8969;30,7133
+37771a5c-d5e6-45a2-962a-1ffed462104b;31.10.2024;31.10.2024;OnePlus Nord 4;OnePlus;64GB;Green;Android;567,00;92;52164;Online;Cash;31;26-33;Male;Turkey;Bursa;40,1828;29,0665
+f29a147f-2183-4e3e-8851-b7bbc41df8c8;01.11.2024;30.11.2024;iPhone 15;Apple;64GB;Green;iOS;829,00;48;39792;Online;EMI;43;42-49;Male;Turkey;Izmir;38,4192;27,1287
+bba8307d-a14f-4411-a2b1-7691e9102fa7;02.11.2024;30.11.2024;iPhone 14 Pro;Apple;64GB;Red;iOS;1082,00;54;58428;Online;Credit Card;20;18-25;Male;India;Mumbai;19,076;72,8777
+69fad209-6c1e-4ea7-9da6-46053b761f3a;03.11.2024;30.11.2024;Galaxy A55;Samsung;256GB;Black;Android;490,00;27;13230;Online;UPI;37;34-41;Male;India;Chennai;13,0827;80,2707
+15e2798f-e227-4f4e-b061-b147a35b3f94;04.11.2024;30.11.2024;Poco X6 Pro;Xiaomi;64GB;Black;Android;358,00;5;1790;Retail Store;UPI;46;42-49;Male;Turkey;Izmir;38,4192;27,1287
+d830c382-2f68-4f61-aa3a-8e32120a4d2e;05.11.2024;30.11.2024;iPhone 15 Pro;Apple;64GB;White;iOS;1134,00;54;61236;Online;EMI;27;26-33;Male;Turkey;Bursa;40,1828;29,0665
+fbb8c484-f4e5-408b-8d25-6ad2e160452b;06.11.2024;30.11.2024;Pixel 9 Pro;Google;64GB;White;Android;1000,00;5;5000;Retail Store;EMI;54;50-57;Female;Turkey;Istanbul;41,0082;28,9784
+453150f7-9f21-41e8-8b98-34b3ed38094c;07.11.2024;30.11.2024;Xiaomi 14 Ultra;Xiaomi;64GB;Black;Android;841,00;61;51301;Online;EMI;47;42-49;Female;Turkey;Antalya;36,8969;30,7133
+b0ba4ceb-ca74-4200-9e93-c0b698af493e;08.11.2024;30.11.2024;iPhone 14;Apple;128GB;White;iOS;896,00;83;74368;Online;EMI;54;50-57;Male;India;Chennai;13,0827;80,2707
+96d4f89c-5b22-4bc3-a153-b82ab110f4b4;09.11.2024;30.11.2024;Galaxy A55;Samsung;256GB;Black;Android;458,00;49;22442;Retail Store;Credit Card;29;26-33;Male;Turkey;Antalya;36,8969;30,7133
+6eb173bb-59a5-4e8b-a2bd-c974ef076134;10.11.2024;30.11.2024;OnePlus 11R;OnePlus;64GB;White;Android;643,00;81;52083;Retail Store;UPI;31;26-33;Male;India;Jaipur;26,9124;75,7873
+505be308-fbe6-4917-9659-87ab82ab776d;11.11.2024;30.11.2024;OnePlus Nord 4;OnePlus;64GB;Green;Android;543,00;35;19005;Retail Store;Cash;40;34-41;Female;Turkey;Bursa;40,1828;29,0665
+d3e82026-2084-40f2-8d5d-d2a94a198af9;12.11.2024;30.11.2024;Pixel 9;Google;256GB;Black;Android;725,00;79;57275;Retail Store;EMI;44;42-49;Female;India;Hyderabad;17,385;78,4867
+37f52a09-fa59-4c84-b888-ebea2fa9c02a;13.11.2024;30.11.2024;Pixel 8a;Google;128GB;White;Android;503,00;36;18108;Online;UPI;48;42-49;Male;India;Pune;18,5204;73,8567
+8373a7ce-dae1-4293-afff-ed796eb226e4;14.11.2024;30.11.2024;Z Fold 6;Samsung;128GB;Blue;Android;1877,00;66;123882;Retail Store;Credit Card;32;26-33;Male;India;Jaipur;26,9124;75,7873
+ed375851-0745-4782-b208-7e4a575211a2;15.11.2024;30.11.2024;Galaxy S25 Ultra;Samsung;128GB;Red;Android;1293,00;2;2586;Retail Store;Cash;36;34-41;Female;India;Pune;18,5204;73,8567
+3fd4db14-58ca-44c7-88d3-b720c4e38ba5;16.11.2024;30.11.2024;iPhone 14;Apple;128GB;Red;iOS;811,00;7;5677;Online;Credit Card;30;26-33;Male;Bangladesh;Chittagong;22,3569;91,7832
+784b0c63-1eb4-42bf-a8e1-de0d1f9bbbb2;17.11.2024;30.11.2024;OnePlus 12 Pro;OnePlus;64GB;Blue;Android;875,00;80;70000;Online;Credit Card;60;58-65;Male;Turkey;Izmir;38,4192;27,1287
+f29a147f-2183-4e3e-8851-b7bbc41df8c8;18.11.2024;30.11.2024;iPhone 15;Apple;64GB;Green;iOS;829,00;48;39792;Online;EMI;43;42-49;Male;Turkey;Izmir;38,4192;27,1287
+8d757a3c-6ffc-4b44-97aa-de01f6bc3b56;19.11.2024;30.11.2024;Poco X6 Pro;Xiaomi;64GB;Green;Android;369,00;81;29889;Retail Store;Credit Card;40;34-41;Female;India;Hyderabad;17,385;78,4867
+5b971458-ca8d-4320-b8dd-fa1cd0d3f733;20.11.2024;30.11.2024;Galaxy S25 Ultra;Samsung;256GB;Blue;Android;1247,00;30;37410;Online;Credit Card;53;50-57;Female;India;Lucknow;26,8467;80,9462
+d09c0b41-1402-4356-9862-1037a36dff3c;21.11.2024;30.11.2024;iPhone 15 Pro;Apple;64GB;Green;iOS;1106,00;71;78526;Online;Cash;33;26-33;Male;India;Chennai;13,0827;80,2707
+5bad4d24-060c-4374-9855-fc134cbb0bef;22.11.2024;30.11.2024;OnePlus 11R;OnePlus;64GB;Blue;Android;621,00;40;24840;Retail Store;Cash;48;42-49;Other;India;Hyderabad;17,385;78,4867
+81201758-d358-4752-ae12-239b8faebae6;23.11.2024;30.11.2024;iPhone 15 Pro;Apple;128GB;Blue;iOS;1150,00;43;49450;Retail Store;Credit Card;38;34-41;Female;India;Chennai;13,0827;80,2707
+077487a5-61c4-4f29-bd88-49901d7b47e7;24.11.2024;30.11.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Blue;Android;837,00;83;69471;Retail Store;Cash;41;34-41;Female;Pakistan;Karachi;24,8607;67,0011
+7278319c-f4ff-4957-8747-de5d8c4fb0b2;25.11.2024;30.11.2024;Redmi Note 13;Xiaomi;64GB;Green;Android;319,00;34;10846;Partner;EMI;34;34-41;Other;India;Jaipur;26,9124;75,7873
+e50290db-1725-4255-9fb6-a5e7a4d02d74;26.11.2024;30.11.2024;Galaxy A55;Samsung;256GB;Blue;Android;443,00;77;34111;Online;Cash;62;58-65;Female;India;Mumbai;19,076;72,8777
+53745a72-1cf1-45ad-a544-8ac93d79a45d;27.11.2024;30.11.2024;Mi 13T Pro;Xiaomi;128GB;Green;Android;531,00;21;11151;Online;UPI;49;42-49;Female;India;Pune;18,5204;73,8567
+567c276b-fec4-47e4-b5be-71f2b79bd745;28.11.2024;30.11.2024;Redmi Note 13;Xiaomi;128GB;Black;Android;315,00;92;28980;Online;UPI;33;26-33;Female;Turkey;Istanbul;41,0082;28,9784
+7278319c-f4ff-4957-8747-de5d8c4fb0b2;29.11.2024;30.11.2024;Redmi Note 13;Xiaomi;64GB;Green;Android;319,00;34;10846;Partner;EMI;34;34-41;Other;India;Jaipur;26,9124;75,7873
+b44062f4-e16b-4596-bba1-9dd612a69615;30.11.2024;30.11.2024;iPhone 14 Pro;Apple;256GB;Green;iOS;1045,00;23;24035;Retail Store;EMI;32;26-33;Male;Bangladesh;Rajshahi;24,3745;88,6042
+41eea37c-f1ca-4d75-95d2-c42339fe8115;01.12.2024;31.12.2024;iPhone 14;Apple;64GB;Green;iOS;892,00;58;51736;Online;EMI;42;42-49;Male;Turkey;Ankara;39,9334;32,8597
+673ba242-77f0-4978-8a16-d8f590cf8be3;02.12.2024;31.12.2024;Pixel 9;Google;64GB;Black;Android;789,00;47;37083;Retail Store;UPI;23;18-25;Female;India;Delhi;28,7041;77,1025
+316ae676-2311-46eb-84b1-088dfeeb19dd;03.12.2024;31.12.2024;Pixel 9;Google;64GB;Blue;Android;715,00;59;42185;Retail Store;UPI;53;50-57;Female;India;Ahmedabad;23,0225;72,5714
+41e73345-7161-4b86-9922-848a9ca80bf9;04.12.2024;31.12.2024;iPhone 15;Apple;64GB;White;iOS;887,00;10;8870;Retail Store;EMI;38;34-41;Female;Bangladesh;Khulna;22,8456;89,5403
+32efcd0a-9382-4773-997d-d5f484be58a5;05.12.2024;31.12.2024;Galaxy S25 Ultra;Samsung;64GB;Blue;Android;1239,00;34;42126;Online;UPI;37;34-41;Female;Turkey;Istanbul;41,0082;28,9784
+0835e90c-955f-47dc-87df-98c314e501a7;06.12.2024;31.12.2024;Pixel 9 Pro;Google;128GB;Black;Android;1048,00;87;91176;Online;EMI;35;34-41;Female;Turkey;Bursa;40,1828;29,0665
+0c877dea-f64a-4f75-8ccf-4dc7b70ba576;07.12.2024;31.12.2024;OnePlus Nord 4;OnePlus;128GB;Blue;Android;537,00;36;19332;Retail Store;UPI;52;50-57;Male;India;Delhi;28,7041;77,1025
+271ea241-ee6b-425a-b5d6-5b9fcf2830cb;08.12.2024;31.12.2024;Redmi Note 13;Xiaomi;128GB;Green;Android;343,00;87;29841;Online;Cash;55;50-57;Male;Bangladesh;Dhaka;23,8103;90,4125
+a01cf58f-776a-44aa-9bf0-acb2e791bf54;09.12.2024;31.12.2024;iPhone SE;Apple;128GB;Green;iOS;456,00;9;4104;Online;EMI;21;18-25;Female;Turkey;Ankara;39,9334;32,8597
+963677f8-ebd9-4a9c-a90e-a17d3c479fde;10.12.2024;31.12.2024;OnePlus Nord 4;OnePlus;128GB;White;Android;540,00;44;23760;Partner;Credit Card;23;18-25;Male;Bangladesh;Rajshahi;24,3745;88,6042
+f96ad151-8b3e-4126-99a5-97a4a176915a;11.12.2024;31.12.2024;Galaxy S25 Ultra;Samsung;64GB;Black;Android;1207,00;35;42245;Online;UPI;20;18-25;Female;India;Pune;18,5204;73,8567
+8387a168-4638-412f-8721-9ceebeba72fe;12.12.2024;31.12.2024;OnePlus 12 Pro;OnePlus;128GB;Black;Android;829,00;29;24041;Partner;Credit Card;42;42-49;Female;India;Jaipur;26,9124;75,7873
+6e9b3fb9-acd2-458a-8d6f-cc76b8f3c204;13.12.2024;31.12.2024;iPhone 14;Apple;64GB;Red;iOS;880,00;52;45760;Retail Store;UPI;63;58-65;Female;Turkey;Ankara;39,9334;32,8597
+19f710fc-8045-441d-b796-c40779f245a7;14.12.2024;31.12.2024;iPhone 14 Pro;Apple;128GB;White;iOS;1065,00;39;41535;Online;Cash;27;26-33;Male;India;Jaipur;26,9124;75,7873
+cb4d7c5f-824b-4bae-8061-1ee9343d7327;15.12.2024;31.12.2024;Pixel 9 Pro;Google;64GB;White;Android;1013,00;29;29377;Partner;Cash;50;50-57;Other;India;Mumbai;19,076;72,8777
+58bebb33-c6cf-47e0-9ad7-156735a68caf;16.12.2024;31.12.2024;Pixel 9;Google;256GB;White;Android;735,00;28;20580;Partner;Credit Card;38;34-41;Male;Turkey;Antalya;36,8969;30,7133
+d857b3cb-d28c-451e-9ad1-0aed07d6b5ad;17.12.2024;31.12.2024;OnePlus 12 Pro;OnePlus;64GB;Red;Android;802,00;13;10426;Online;EMI;36;34-41;Male;Bangladesh;Rajshahi;24,3745;88,6042
+797876a4-bc06-44d0-8bac-d5123fb72501;18.12.2024;31.12.2024;Pixel 9 Pro;Google;256GB;White;Android;1029,00;95;97755;Retail Store;EMI;36;34-41;Male;Turkey;Bursa;40,1828;29,0665
+07097620-54aa-4e73-9024-c51380f3deca;19.12.2024;31.12.2024;OnePlus Nord 4;OnePlus;256GB;Black;Android;534,00;55;29370;Online;Cash;33;26-33;Female;Turkey;Ankara;39,9334;32,8597
+60cf0698-9cbf-4d7e-b7c5-0edb4fa6cf42;20.12.2024;31.12.2024;Galaxy S25 Ultra;Samsung;256GB;Green;Android;1260,00;66;83160;Retail Store;Cash;32;26-33;Female;India;Mumbai;19,076;72,8777
+3f591e8b-fd26-4d8e-9556-2ce32355437e;21.12.2024;31.12.2024;Galaxy S25 Ultra;Samsung;256GB;Green;Android;1211,00;85;102935;Online;Credit Card;47;42-49;Female;India;Pune;18,5204;73,8567
+9bb46792-867e-42a4-8fa8-e5a9fcd85d68;22.12.2024;31.12.2024;OnePlus Nord 4;OnePlus;64GB;White;Android;564,00;36;20304;Partner;EMI;20;18-25;Female;India;Lucknow;26,8467;80,9462
+a1dae876-8ee4-4d2e-ac91-35d2536426cf;23.12.2024;31.12.2024;iPhone 15;Apple;256GB;Red;iOS;852,00;65;55380;Online;Cash;35;34-41;Female;India;Lucknow;26,8467;80,9462
+8eb5f50a-b99c-41d8-85b0-cbe79295764c;24.12.2024;31.12.2024;Poco X6 Pro;Xiaomi;256GB;Green;Android;376,00;49;18424;Retail Store;EMI;38;34-41;Female;Bangladesh;Chittagong;22,3569;91,7832
+70e0ce1a-e29b-4077-b397-a30a04d23eb9;25.12.2024;31.12.2024;Xiaomi 14 Ultra;Xiaomi;128GB;Green;Android;804,00;94;75576;Online;EMI;33;26-33;Female;Bangladesh;Khulna;22,8456;89,5403
+0573f325-9457-4657-a7c4-447a19d93f99;26.12.2024;31.12.2024;iPhone 14 Pro;Apple;128GB;Blue;iOS;1097,00;3;3291;Online;Cash;43;42-49;Male;Turkey;Bursa;40,1828;29,0665
+999884f1-17c1-4366-a5e3-8c63f28673dc;27.12.2024;31.12.2024;OnePlus 12 Pro;OnePlus;256GB;Blue;Android;829,00;21;17409;Online;EMI;19;18-25;Female;India;Lucknow;26,8467;80,9462
+34a118c4-60d2-4450-8bc1-0c8435adabeb;28.12.2024;31.12.2024;Pixel 8a;Google;64GB;Blue;Android;539,00;18;9702;Online;EMI;44;42-49;Female;Turkey;Izmir;38,4192;27,1287
+f26a4e4f-7e9e-481e-a594-fede2d967ec5;29.12.2024;31.12.2024;iPhone 14;Apple;64GB;Blue;iOS;884,00;29;25636;Retail Store;Cash;37;34-41;Female;India;Ahmedabad;23,0225;72,5714
+aa4eddb8-b9a3-4f56-89f3-964b0d417867;30.12.2024;31.12.2024;iPhone 15;Apple;256GB;Black;iOS;877,00;88;77176;Retail Store;EMI;61;58-65;Male;Turkey;Bursa;40,1828;29,0665
+857e8ec4-6502-4ef5-b95c-c4f249ed055a;31.12.2024;31.12.2024;Galaxy S25 Ultra;Samsung;128GB;Red;Android;1242,00;97;120474;Retail Store;Cash;20;18-25;Male;Turkey;Izmir;38,4192;27,1287
