@@ -91,3 +91,22 @@ FOREIGN KEY (Location_ID) REFERENCES Dim_Locations(Location_ID);
 --Utworzenie klucza g³ownego dla tabeli g³ownej
 ALTER TABLE Fact_Sales
 ADD Sales_ID INT IDENTITY(1,1) PRIMARY KEY;
+
+--Uzupelnienie brakujacych cen w tabeli Dim_Products
+WITH AvgPrice AS (
+    SELECT 
+        Mobile_Model, 
+        Storage_Size, 
+        AVG(Price) AS Srednia_Cena
+    FROM Dim_Products
+    WHERE Price IS NOT NULL AND Price > 0
+    GROUP BY Mobile_Model, Storage_Size
+)
+
+UPDATE p
+SET p.Price = g.Srednia_Cena
+FROM Dim_Products p
+JOIN AvgPrice g 
+    ON p.Mobile_Model = g.Mobile_Model 
+    AND p.Storage_Size = g.Storage_Size
+WHERE p.Price IS NULL;

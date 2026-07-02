@@ -1,0 +1,275 @@
+Mobile_Model	Brand	Operating_System	Storage_Size	Color	Product_ID	Price
+Galaxy A55	Samsung	Android	128	Black	1	452
+Galaxy A55	Samsung	Android	128	Blue	2	454
+Galaxy A55	Samsung	Android	128	Green	3	413
+Galaxy A55	Samsung	Android	128	Red	4	425
+Galaxy A55	Samsung	Android	128	White	5	436
+Galaxy A55	Samsung	Android	256	Black	6	490
+Galaxy A55	Samsung	Android	256	Blue	7	422
+Galaxy A55	Samsung	Android	256	Red	8	456
+Galaxy A55	Samsung	Android	256	White	9	456
+Galaxy A55	Samsung	Android	64	Black	10	459
+Galaxy A55	Samsung	Android	64	Blue	11	459
+Galaxy A55	Samsung	Android	64	Green	12	459
+Galaxy A55	Samsung	Android	64	Red	13	459
+Galaxy M15	Samsung	Android	128	Black	14	306
+Galaxy M15	Samsung	Android	128	Blue	15	375
+Galaxy M15	Samsung	Android	128	Green	16	362
+Galaxy M15	Samsung	Android	128	White	17	347,666666666667
+Galaxy M15	Samsung	Android	256	Black	18	323
+Galaxy M15	Samsung	Android	256	Blue	19	323
+Galaxy M15	Samsung	Android	256	Green	20	325
+Galaxy M15	Samsung	Android	256	Red	21	321
+Galaxy M15	Samsung	Android	256	White	22	323
+Galaxy M15	Samsung	Android	64	Black	23	356,5
+Galaxy M15	Samsung	Android	64	Blue	24	367
+Galaxy M15	Samsung	Android	64	Green	25	308
+Galaxy M15	Samsung	Android	64	Red	26	356
+Galaxy M15	Samsung	Android	64	White	27	395
+Galaxy S25 Ultra	Samsung	Android	128	Black	28	1248
+Galaxy S25 Ultra	Samsung	Android	128	Blue	29	1270
+Galaxy S25 Ultra	Samsung	Android	128	Green	30	1269
+Galaxy S25 Ultra	Samsung	Android	128	Red	31	1293
+Galaxy S25 Ultra	Samsung	Android	128	White	32	1270
+Galaxy S25 Ultra	Samsung	Android	256	Black	33	1248
+Galaxy S25 Ultra	Samsung	Android	256	Blue	34	1247
+Galaxy S25 Ultra	Samsung	Android	256	Green	35	1260
+Galaxy S25 Ultra	Samsung	Android	256	Red	36	1240,75
+Galaxy S25 Ultra	Samsung	Android	256	White	37	1208
+Galaxy S25 Ultra	Samsung	Android	64	Black	38	1207
+Galaxy S25 Ultra	Samsung	Android	64	Blue	39	1239
+Galaxy S25 Ultra	Samsung	Android	64	Green	40	1255
+Galaxy S25 Ultra	Samsung	Android	64	Red	41	1204
+Galaxy S25 Ultra	Samsung	Android	64	White	42	1277
+iPhone 14	Apple	iOS	128	Black	43	856
+iPhone 14	Apple	iOS	128	Blue	44	861
+iPhone 14	Apple	iOS	128	Green	45	856
+iPhone 14	Apple	iOS	128	Red	46	811
+iPhone 14	Apple	iOS	128	White	47	896
+iPhone 14	Apple	iOS	256	Black	48	811
+iPhone 14	Apple	iOS	256	Blue	49	800
+iPhone 14	Apple	iOS	256	Green	50	810
+iPhone 14	Apple	iOS	256	Red	51	813
+iPhone 14	Apple	iOS	256	White	52	816
+iPhone 14	Apple	iOS	64	Black	53	809
+iPhone 14	Apple	iOS	64	Blue	54	884
+iPhone 14	Apple	iOS	64	Green	55	892
+iPhone 14	Apple	iOS	64	Red	56	880
+iPhone 14	Apple	iOS	64	White	57	856
+iPhone 14 Pro	Apple	iOS	128	Black	58	1043,66666666667
+iPhone 14 Pro	Apple	iOS	128	Blue	59	1013
+iPhone 14 Pro	Apple	iOS	128	Red	60	1053
+iPhone 14 Pro	Apple	iOS	128	White	61	1065
+iPhone 14 Pro	Apple	iOS	256	Black	62	1050,5
+iPhone 14 Pro	Apple	iOS	256	Blue	63	1059
+iPhone 14 Pro	Apple	iOS	256	Green	64	1045
+iPhone 14 Pro	Apple	iOS	256	Red	65	1022
+iPhone 14 Pro	Apple	iOS	256	White	66	1076
+iPhone 14 Pro	Apple	iOS	64	Black	67	1063
+iPhone 14 Pro	Apple	iOS	64	Green	68	1021
+iPhone 14 Pro	Apple	iOS	64	Red	69	1082
+iPhone 14 Pro	Apple	iOS	64	White	70	1032
+iPhone 15	Apple	iOS	128	Black	71	872
+iPhone 15	Apple	iOS	128	Blue	72	876
+iPhone 15	Apple	iOS	128	White	73	823
+iPhone 15	Apple	iOS	256	Black	74	864
+iPhone 15	Apple	iOS	256	Green	75	858
+iPhone 15	Apple	iOS	256	Red	76	852
+iPhone 15	Apple	iOS	256	White	77	858
+iPhone 15	Apple	iOS	64	Black	78	821
+iPhone 15	Apple	iOS	64	Blue	79	845,666666666667
+iPhone 15	Apple	iOS	64	Green	80	829
+iPhone 15	Apple	iOS	64	Red	81	845,666666666667
+iPhone 15	Apple	iOS	64	White	82	887
+iPhone 15 Pro	Apple	iOS	128	Black	83	1187,5
+iPhone 15 Pro	Apple	iOS	128	Blue	84	1189
+iPhone 15 Pro	Apple	iOS	128	Green	85	1186
+iPhone 15 Pro	Apple	iOS	128	Red	86	1187,5
+iPhone 15 Pro	Apple	iOS	128	White	87	1187,5
+iPhone 15 Pro	Apple	iOS	256	Black	88	1146,66666666667
+iPhone 15 Pro	Apple	iOS	256	Blue	89	1146,66666666667
+iPhone 15 Pro	Apple	iOS	256	Green	90	1142
+iPhone 15 Pro	Apple	iOS	256	Red	91	1131
+iPhone 15 Pro	Apple	iOS	256	White	92	1167
+iPhone 15 Pro	Apple	iOS	64	Black	93	1120
+iPhone 15 Pro	Apple	iOS	64	Blue	94	1120
+iPhone 15 Pro	Apple	iOS	64	Green	95	1106
+iPhone 15 Pro	Apple	iOS	64	Red	96	1120
+iPhone 15 Pro	Apple	iOS	64	White	97	1134
+iPhone SE	Apple	iOS	128	Black	98	449
+iPhone SE	Apple	iOS	128	Blue	99	449
+iPhone SE	Apple	iOS	128	Green	100	456
+iPhone SE	Apple	iOS	128	Red	101	442
+iPhone SE	Apple	iOS	128	White	102	449
+iPhone SE	Apple	iOS	256	Black	103	455
+iPhone SE	Apple	iOS	256	Blue	104	478
+iPhone SE	Apple	iOS	256	Green	105	433
+iPhone SE	Apple	iOS	256	Red	106	450
+iPhone SE	Apple	iOS	256	White	107	459
+iPhone SE	Apple	iOS	64	Black	108	458
+iPhone SE	Apple	iOS	64	Blue	109	451
+iPhone SE	Apple	iOS	64	Red	110	465
+iPhone SE	Apple	iOS	64	White	111	458
+Mi 13T Pro	Xiaomi	Android	128	Black	112	546
+Mi 13T Pro	Xiaomi	Android	128	Blue	113	535
+Mi 13T Pro	Xiaomi	Android	128	Green	114	531
+Mi 13T Pro	Xiaomi	Android	128	Red	115	537,333333333333
+Mi 13T Pro	Xiaomi	Android	128	White	116	537,333333333333
+Mi 13T Pro	Xiaomi	Android	256	Black	117	538,5
+Mi 13T Pro	Xiaomi	Android	256	Blue	118	533
+Mi 13T Pro	Xiaomi	Android	256	Green	119	544
+Mi 13T Pro	Xiaomi	Android	256	Red	120	538,5
+Mi 13T Pro	Xiaomi	Android	256	White	121	538,5
+Mi 13T Pro	Xiaomi	Android	64	Black	122	518
+Mi 13T Pro	Xiaomi	Android	64	Blue	123	518
+Mi 13T Pro	Xiaomi	Android	64	Green	124	526,5
+Mi 13T Pro	Xiaomi	Android	64	Red	125	528
+Mi 13T Pro	Xiaomi	Android	64	White	126	542
+OnePlus 11R	OnePlus	Android	128	Black	127	675,5
+OnePlus 11R	OnePlus	Android	128	Blue	128	689
+OnePlus 11R	OnePlus	Android	128	Green	129	676
+OnePlus 11R	OnePlus	Android	128	Red	130	669
+OnePlus 11R	OnePlus	Android	128	White	131	668
+OnePlus 11R	OnePlus	Android	256	Black	132	699
+OnePlus 11R	OnePlus	Android	256	Blue	133	641
+OnePlus 11R	OnePlus	Android	256	Green	134	608
+OnePlus 11R	OnePlus	Android	256	Red	135	655
+OnePlus 11R	OnePlus	Android	256	White	136	672
+OnePlus 11R	OnePlus	Android	64	Black	137	601
+OnePlus 11R	OnePlus	Android	64	Blue	138	621
+OnePlus 11R	OnePlus	Android	64	Green	139	641,75
+OnePlus 11R	OnePlus	Android	64	Red	140	683
+OnePlus 11R	OnePlus	Android	64	White	141	662
+OnePlus 12 Pro	OnePlus	Android	128	Black	142	829
+OnePlus 12 Pro	OnePlus	Android	128	Blue	143	854
+OnePlus 12 Pro	OnePlus	Android	128	Green	144	845
+OnePlus 12 Pro	OnePlus	Android	128	Red	145	852
+OnePlus 12 Pro	OnePlus	Android	128	White	146	845
+OnePlus 12 Pro	OnePlus	Android	256	Black	147	869
+OnePlus 12 Pro	OnePlus	Android	256	Blue	148	843
+OnePlus 12 Pro	OnePlus	Android	256	Green	149	891
+OnePlus 12 Pro	OnePlus	Android	256	Red	150	873
+OnePlus 12 Pro	OnePlus	Android	256	White	151	869
+OnePlus 12 Pro	OnePlus	Android	64	Black	152	823
+OnePlus 12 Pro	OnePlus	Android	64	Blue	153	875
+OnePlus 12 Pro	OnePlus	Android	64	Green	154	803
+OnePlus 12 Pro	OnePlus	Android	64	Red	155	802
+OnePlus 12 Pro	OnePlus	Android	64	White	156	835
+OnePlus Nord 4	OnePlus	Android	128	Black	157	534
+OnePlus Nord 4	OnePlus	Android	128	Blue	158	537
+OnePlus Nord 4	OnePlus	Android	128	Green	159	556
+OnePlus Nord 4	OnePlus	Android	128	Red	160	592
+OnePlus Nord 4	OnePlus	Android	128	White	161	561
+OnePlus Nord 4	OnePlus	Android	256	Black	162	534
+OnePlus Nord 4	OnePlus	Android	256	Blue	163	501
+OnePlus Nord 4	OnePlus	Android	256	Green	164	531
+OnePlus Nord 4	OnePlus	Android	256	Red	165	573
+OnePlus Nord 4	OnePlus	Android	256	White	166	516
+OnePlus Nord 4	OnePlus	Android	64	Black	167	556,333333333333
+OnePlus Nord 4	OnePlus	Android	64	Blue	168	538
+OnePlus Nord 4	OnePlus	Android	64	Green	169	567
+OnePlus Nord 4	OnePlus	Android	64	Red	170	556,333333333333
+OnePlus Nord 4	OnePlus	Android	64	White	171	564
+Pixel 8a	Google	Android	128	Black	172	509
+Pixel 8a	Google	Android	128	Blue	173	534
+Pixel 8a	Google	Android	128	Green	174	516,75
+Pixel 8a	Google	Android	128	Red	175	521
+Pixel 8a	Google	Android	128	White	176	503
+Pixel 8a	Google	Android	256	Black	177	516
+Pixel 8a	Google	Android	256	Blue	178	530,666666666667
+Pixel 8a	Google	Android	256	Green	179	535
+Pixel 8a	Google	Android	256	Red	180	530,666666666667
+Pixel 8a	Google	Android	256	White	181	541
+Pixel 8a	Google	Android	64	Black	182	547
+Pixel 8a	Google	Android	64	Blue	183	501
+Pixel 8a	Google	Android	64	Green	184	543
+Pixel 8a	Google	Android	64	Red	185	540
+Pixel 8a	Google	Android	64	White	186	512
+Pixel 9	Google	Android	128	Black	187	750
+Pixel 9	Google	Android	128	Blue	188	737
+Pixel 9	Google	Android	128	Green	189	784
+Pixel 9	Google	Android	128	Red	190	779
+Pixel 9	Google	Android	128	White	191	762,5
+Pixel 9	Google	Android	256	Black	192	725
+Pixel 9	Google	Android	256	Blue	193	782
+Pixel 9	Google	Android	256	Green	194	771
+Pixel 9	Google	Android	256	Red	195	760
+Pixel 9	Google	Android	256	White	196	735
+Pixel 9	Google	Android	64	Black	197	789
+Pixel 9	Google	Android	64	Blue	198	722
+Pixel 9	Google	Android	64	Green	199	777
+Pixel 9	Google	Android	64	Red	200	762,666666666667
+Pixel 9	Google	Android	64	White	201	762,666666666667
+Pixel 9 Pro	Google	Android	128	Black	202	1059
+Pixel 9 Pro	Google	Android	128	Blue	203	1064,5
+Pixel 9 Pro	Google	Android	128	Green	204	1098
+Pixel 9 Pro	Google	Android	128	Red	205	1067
+Pixel 9 Pro	Google	Android	128	White	206	1034
+Pixel 9 Pro	Google	Android	256	Black	207	1040
+Pixel 9 Pro	Google	Android	256	Blue	208	1036,66666666667
+Pixel 9 Pro	Google	Android	256	Green	209	1036,66666666667
+Pixel 9 Pro	Google	Android	256	Red	210	1017
+Pixel 9 Pro	Google	Android	256	White	211	1053
+Pixel 9 Pro	Google	Android	64	Black	212	1061
+Pixel 9 Pro	Google	Android	64	Blue	213	1057,66666666667
+Pixel 9 Pro	Google	Android	64	Green	214	1057,66666666667
+Pixel 9 Pro	Google	Android	64	Red	215	1099
+Pixel 9 Pro	Google	Android	64	White	216	1013
+Poco X6 Pro	Xiaomi	Android	128	Blue	217	362
+Poco X6 Pro	Xiaomi	Android	128	Green	218	378,5
+Poco X6 Pro	Xiaomi	Android	128	Red	219	395
+Poco X6 Pro	Xiaomi	Android	128	White	220	378,5
+Poco X6 Pro	Xiaomi	Android	256	Black	221	386
+Poco X6 Pro	Xiaomi	Android	256	Blue	222	351
+Poco X6 Pro	Xiaomi	Android	256	Green	223	376
+Poco X6 Pro	Xiaomi	Android	256	Red	224	350
+Poco X6 Pro	Xiaomi	Android	256	White	225	357
+Poco X6 Pro	Xiaomi	Android	64	Black	226	395
+Poco X6 Pro	Xiaomi	Android	64	Blue	227	356
+Poco X6 Pro	Xiaomi	Android	64	Green	228	369
+Poco X6 Pro	Xiaomi	Android	64	Red	229	370
+Poco X6 Pro	Xiaomi	Android	64	White	230	358
+Redmi Note 13	Xiaomi	Android	128	Black	231	335
+Redmi Note 13	Xiaomi	Android	128	Blue	232	335
+Redmi Note 13	Xiaomi	Android	128	Green	233	343
+Redmi Note 13	Xiaomi	Android	128	Red	234	328,5
+Redmi Note 13	Xiaomi	Android	128	White	235	301
+Redmi Note 13	Xiaomi	Android	256	Black	236	334
+Redmi Note 13	Xiaomi	Android	256	Green	237	342
+Redmi Note 13	Xiaomi	Android	256	Red	238	334
+Redmi Note 13	Xiaomi	Android	256	White	239	326
+Redmi Note 13	Xiaomi	Android	64	Black	240	340
+Redmi Note 13	Xiaomi	Android	64	Blue	241	329,5
+Redmi Note 13	Xiaomi	Android	64	Green	242	319
+Redmi Note 13	Xiaomi	Android	64	Red	243	329,5
+Redmi Note 13	Xiaomi	Android	64	White	244	329,5
+Xiaomi 14 Ultra	Xiaomi	Android	128	Black	245	824
+Xiaomi 14 Ultra	Xiaomi	Android	128	Blue	246	837
+Xiaomi 14 Ultra	Xiaomi	Android	128	Green	247	804
+Xiaomi 14 Ultra	Xiaomi	Android	128	Red	248	821,666666666667
+Xiaomi 14 Ultra	Xiaomi	Android	128	White	249	821,666666666667
+Xiaomi 14 Ultra	Xiaomi	Android	256	Black	250	805
+Xiaomi 14 Ultra	Xiaomi	Android	256	Blue	251	891
+Xiaomi 14 Ultra	Xiaomi	Android	256	Green	252	855
+Xiaomi 14 Ultra	Xiaomi	Android	256	Red	253	870
+Xiaomi 14 Ultra	Xiaomi	Android	256	White	254	855,25
+Xiaomi 14 Ultra	Xiaomi	Android	64	Black	255	841
+Xiaomi 14 Ultra	Xiaomi	Android	64	Blue	256	829,5
+Xiaomi 14 Ultra	Xiaomi	Android	64	Green	257	818
+Xiaomi 14 Ultra	Xiaomi	Android	64	Red	258	829,5
+Xiaomi 14 Ultra	Xiaomi	Android	64	White	259	829,5
+Z Fold 6	Samsung	Android	128	Black	260	1845
+Z Fold 6	Samsung	Android	128	Blue	261	1877
+Z Fold 6	Samsung	Android	128	Green	262	1845
+Z Fold 6	Samsung	Android	128	Red	263	1857
+Z Fold 6	Samsung	Android	128	White	264	1856
+Z Fold 6	Samsung	Android	256	Black	265	1837
+Z Fold 6	Samsung	Android	256	Blue	266	1815
+Z Fold 6	Samsung	Android	256	Green	267	1845,75
+Z Fold 6	Samsung	Android	256	Red	268	1858
+Z Fold 6	Samsung	Android	256	White	269	1873
+Z Fold 6	Samsung	Android	64	Black	270	1855
+Z Fold 6	Samsung	Android	64	Blue	271	1820,66666666667
+Z Fold 6	Samsung	Android	64	Green	272	1820,66666666667
+Z Fold 6	Samsung	Android	64	Red	273	1799
+Z Fold 6	Samsung	Android	64	White	274	1808
